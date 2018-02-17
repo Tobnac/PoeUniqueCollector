@@ -10,8 +10,12 @@ namespace PoeUniqueCollector
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("fuck git");
-            Console.Read();
+            var api = new APIRequester();
+
+            while(true)
+            {
+                api.Run();
+            }
         }
     }
 }
