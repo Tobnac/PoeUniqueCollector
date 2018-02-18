@@ -12,11 +12,21 @@ namespace PoeUniqueCollector
     {
         public string NextID
         {
-            get { return nextID; }
-            set { nextID = value; this.isUpToDate = true; }
+            get
+            {
+                return nextID;
+            }
+
+            set
+            {
+                nextID = value;
+                this.isUpToDate = true;
+                this.SaveNextIDToFile(value);
+            }
         }
 
         private string nextID = "";
+        private string nextIDFilePath = "..\\..\\NextChangeID.txt";
         private bool isUpToDate;
         private List<Task<string>> openRequests = new List<Task<string>>(); // placeholder for multiple async requests
         private StashScanner scanner;
@@ -24,6 +34,7 @@ namespace PoeUniqueCollector
         public APIRequester()
         {
             this.scanner = new StashScanner(this);
+            this.SearchForNextIDInFile();
         }
 
         public void Run()
@@ -34,6 +45,7 @@ namespace PoeUniqueCollector
             {
                 if (response.IsCompleted)
                 {
+                    Console.WriteLine("Response received!");
                     this.isUpToDate = false;
                     break;
                 }
@@ -49,6 +61,31 @@ namespace PoeUniqueCollector
             this.scanner.ParseToObject(response.Result);
             this.scanner.ScanUniques();
             UpdateNextID(response.Result);
+        }
+
+        private void SearchForNextIDInFile()
+        {
+            string content;
+
+            try
+            {
+                content = System.IO.File.ReadAllText(this.nextIDFilePath);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Error while reading NextID file");
+                Console.WriteLine(e.Message);
+                Console.ReadLine();
+                return;
+            }
+
+            this.nextID = content;            
+        }
+
+        private void SaveNextIDToFile(string nextID)
+        {
+            string[] myContent = { nextID };
+            System.IO.File.WriteAllLines(this.nextIDFilePath, myContent);
         }
 
         private async Task<string> GetResponseAsync()

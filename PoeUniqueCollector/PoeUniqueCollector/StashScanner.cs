@@ -11,11 +11,14 @@ namespace PoeUniqueCollector
     {
         public Dictionary<string, List<string>> UniqueCollection { get; set; } = new Dictionary<string, List<string>>();
         public PoEObject PoEObject { get; set; }
+
         private APIRequester dataSource;
+        private string savedDataFilePath = "..\\..\\UniqueCollection.txt";
 
         public StashScanner(APIRequester dataSource)
         {
             this.dataSource = dataSource;
+            this.LoadFromFile();
         }
 
         public PoEObject ParseToObject(string response)
@@ -34,6 +37,8 @@ namespace PoeUniqueCollector
                     ScanUniqueItem(item);
                 }
             }
+
+            this.SaveToFile();
         }
 
         private void ScanUniqueItem(Item item)
@@ -69,18 +74,15 @@ namespace PoeUniqueCollector
                 if (!this.UniqueCollection[baseType].Contains(uniqueName))
                 {
                     this.UniqueCollection[baseType].Add(uniqueName);
-                    Print();
-
+                    Console.WriteLine("New Unique: " + uniqueName + " (" + this.UniqueCollection[baseType].Count + ")");
                 }
             }
 
             else
             {
                 this.UniqueCollection.Add(baseType, new List<string>() { uniqueName });
-                Print();
+                Console.WriteLine("New BaseType: " + baseType + " (" + this.UniqueCollection.Count + ")");
             }
-
-            void Print() => Console.WriteLine(this.UniqueCollection.Count);
         }
 
         public void PrintBaseTypes()
@@ -88,6 +90,47 @@ namespace PoeUniqueCollector
             foreach (KeyValuePair<string, List<string>> entry in this.UniqueCollection)
             {
                 Console.WriteLine(entry.Key);
+            }
+        }
+
+        private void SaveToFile()
+        {
+            var content = new List<string>();
+
+            foreach (var entry in this.UniqueCollection)
+            {
+                var line = entry.Key;
+                line += "->";
+                line += String.Join(",", entry.Value);
+                content.Add(line);
+            }
+
+            System.IO.File.WriteAllLines(this.savedDataFilePath, content.ToArray());
+        }
+
+        private void LoadFromFile()
+        {
+            string[] content;
+
+            try
+            {
+                content = System.IO.File.ReadAllLines(this.savedDataFilePath);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Error while reading NextID file");
+                Console.WriteLine(e.Message);
+                Console.ReadLine();
+                return;
+            }
+
+            foreach (var line in content)
+            {
+                var split = line.Split("->");
+                var baseType = split[0];
+                var names = split[1].Split(",");
+
+                this.UniqueCollection.Add(baseType, names.ToList());
             }
         }
     }
