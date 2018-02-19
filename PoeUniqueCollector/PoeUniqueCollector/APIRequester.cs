@@ -12,10 +12,7 @@ namespace PoeUniqueCollector
     {
         public string NextID
         {
-            get
-            {
-                return nextID;
-            }
+            get { return nextID; }
 
             set
             {
@@ -25,15 +22,20 @@ namespace PoeUniqueCollector
             }
         }
 
+        public int UselessRequestTolerance { get; set; }
+
         private string nextID = "";
         private string nextIDFilePath = "..\\..\\NextChangeID.txt";
         private bool isUpToDate = true;
         private Task<string> openRequest;
         private StashScanner scanner;
+        private int uselessRequestCount = 0;
+        
 
-        public APIRequester()
+        public APIRequester(int uselessRequestTolerance)
         {
             this.scanner = new StashScanner(this);
+            this.UselessRequestTolerance = uselessRequestTolerance;
             this.ReadNextIDFromFile();
         }
 
@@ -41,31 +43,61 @@ namespace PoeUniqueCollector
         {
             this.SendRequest();
             this.AwaitResponse();
+            this.ProcessResponse();
+        }
+
+        private void SendRequest()
+        {
+            if (!this.isUpToDate)
+            {
+                Console.WriteLine("Error: nextID is not up to date!");
+                return;
+            }
+
+            var request = CreateRequestAsync();
+            this.openRequest = request;
         }
 
         private void AwaitResponse()
         {
-            while (true)
+            while (!this.openRequest.IsCompleted)
             {
-                if (this.openRequest.IsCompleted)
-                {
-                    Console.WriteLine("Response received!");
-                    this.isUpToDate = false;
-                    break;
-                }
-
-                else
-                {
-                    Console.WriteLine(this.openRequest.Status);
-                }
-
-                Thread.Sleep(500);
+                Console.WriteLine(this.openRequest.Status);
+                Thread.Sleep(1000);
             }
 
+            Console.WriteLine("Response received!");
+            this.isUpToDate = false;
+        }
+
+        private void ProcessResponse()
+        {
             this.scanner.ParseToObject(this.openRequest.Result);
-            this.SendRequest();
+
+            if (this.DoContinueRequesting())
+            {
+                this.SendRequest();
+            }
+
+            var oldCount = this.scanner.UniqueCollection.Count;
             this.scanner.ScanUniques();
-            this.AwaitResponse();
+            if (this.scanner.UniqueCollection.Count > oldCount)
+            {
+                this.uselessRequestCount = 0;
+            }
+            else
+            {
+                this.uselessRequestCount++;
+                Console.Write("Useless request. Counter increased to " + this.uselessRequestCount);
+                if (this.UselessRequestTolerance <= 0) Console.Write("\n");
+                else Console.WriteLine("/" + this.UselessRequestTolerance);
+            }
+
+            if (this.DoContinueRequesting())
+            {
+                this.AwaitResponse();
+                this.ProcessResponse();
+            }
         }
 
         private void ReadNextIDFromFile()
@@ -93,17 +125,7 @@ namespace PoeUniqueCollector
             System.IO.File.WriteAllLines(this.nextIDFilePath, myContent);
         }
 
-        private void SendRequest()
-        {
-            if (!this.isUpToDate)
-            {
-                Console.WriteLine("Error: nextID is not up to date!");
-                return;
-            }
 
-            var request = CreateRequestAsync();
-            this.openRequest = request;
-        }
 
         private async Task<string> CreateRequestAsync()
         {
@@ -126,6 +148,18 @@ namespace PoeUniqueCollector
             }
 
             return url;
+        }
+
+        private bool DoContinueRequesting()
+        {
+            if (this.UselessRequestTolerance <= 0) return true;
+
+            if (this.uselessRequestCount >= this.UselessRequestTolerance)
+            {
+                return false;
+            }
+
+            return true;
         }
 
     }
