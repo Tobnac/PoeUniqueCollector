@@ -32,6 +32,13 @@ namespace PoeUniqueCollector
 
         public void ScanUniques()
         {
+            // async demo
+            //for (int i = 0; i < 25; i++)
+            //{
+            //    Console.WriteLine("Calculating... (fake)");
+            //    Thread.Sleep(100);
+            //}
+
             foreach (var stash in this.PoEObject.Stashes)
             {
                 foreach (var item in stash.Items)

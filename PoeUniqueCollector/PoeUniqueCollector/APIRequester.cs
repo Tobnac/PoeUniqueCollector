@@ -27,7 +27,7 @@ namespace PoeUniqueCollector
 
         private string nextID = "";
         private string nextIDFilePath = "..\\..\\NextChangeID.txt";
-        private bool isUpToDate;
+        private bool isUpToDate = true;
         private Task<string> openRequest;
         private StashScanner scanner;
 
@@ -95,6 +95,12 @@ namespace PoeUniqueCollector
 
         private void SendRequest()
         {
+            if (!this.isUpToDate)
+            {
+                Console.WriteLine("Error: nextID is not up to date!");
+                return;
+            }
+
             var request = CreateRequestAsync();
             this.openRequest = request;
         }
