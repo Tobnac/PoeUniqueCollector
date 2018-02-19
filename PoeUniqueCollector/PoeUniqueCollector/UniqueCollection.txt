@@ -446,3 +446,4 @@ Leatherscale Boots-->>Dusktoe
 Cured Quiver-->>Blackgleam
 Greatwolf Talisman-->>Eyes of the Greatwolf
 Rotfeather Talisman-->>Natural Hierarchy
+Jet Amulet-->>Talisman of the Victor

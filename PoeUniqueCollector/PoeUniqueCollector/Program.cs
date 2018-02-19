@@ -10,7 +10,7 @@ namespace PoeUniqueCollector
     {
         static void Main(string[] args)
         {
-            var api = new APIRequester(3);
+            var api = new APIRequester(10);
             api.Run();
             
             Console.WriteLine("Finished");

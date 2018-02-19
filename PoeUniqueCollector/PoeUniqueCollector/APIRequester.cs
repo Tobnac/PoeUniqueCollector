@@ -35,6 +35,8 @@ namespace PoeUniqueCollector
         public APIRequester(int uselessRequestTolerance)
         {
             this.scanner = new StashScanner(this);
+            this.scanner.Configs.Add(new SC_UniqueCollector());
+            this.scanner.Configs.Add(new SC_ProphecyCollector());
             this.UselessRequestTolerance = uselessRequestTolerance;
             this.ReadNextIDFromFile();
         }
@@ -79,18 +81,18 @@ namespace PoeUniqueCollector
                 this.SendRequest();
             }
 
-            var oldCount = this.scanner.UniqueCollection.Count;
-            this.scanner.ScanUniques();
-            if (this.scanner.UniqueCollection.Count > oldCount)
-            {
-                this.uselessRequestCount = 0;
-            }
-            else
+            var oldCounts = this.scanner.Configs.Select(x => x.CollectionSize).ToArray();
+            this.scanner.ScanAllItems();
+            if (oldCounts.SequenceEqual(this.scanner.Configs.Select(x => x.CollectionSize).ToArray()))
             {
                 this.uselessRequestCount++;
                 Console.Write("Useless request. Counter increased to " + this.uselessRequestCount);
                 if (this.UselessRequestTolerance <= 0) Console.Write("\n");
-                else Console.WriteLine("/" + this.UselessRequestTolerance);
+                else Console.WriteLine("/" + this.UselessRequestTolerance);                
+            }
+            else
+            {
+                this.uselessRequestCount = 0;
             }
 
             if (this.DoContinueRequesting())
