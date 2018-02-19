@@ -10,8 +10,18 @@ namespace PoeUniqueCollector
     public class SC_UniqueCollector : IScannerConfig
     {
         public Dictionary<string, List<string>> Collection { get; set; } = new Dictionary<string, List<string>>();
-        public int CollectionSize { get { return this.Collection.Count; } private set => throw new NotImplementedException(); }
         public string DataFilePath { get; set; } = "..\\..\\UniqueCollection.txt";
+        public int CollectionSize {
+            get
+            {
+                var res = 0;
+                foreach (var entry in this.Collection)
+                {
+                    res += entry.Value.Count;
+                }
+                return res;
+            }
+            private set => throw new NotImplementedException(); }
 
         public SC_UniqueCollector()
         {

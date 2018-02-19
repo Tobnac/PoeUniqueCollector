@@ -41,7 +41,7 @@ Great Crown-->>Geofri's Crest;;Lightpoacher
 Viridian Jewel-->>Lioneye's Fall;;Volley Fire;;Spirit Guards;;Hair Trigger;;Fight for Survival;;Apparitions;;Steel Spirit;;Growing Agony;;Primordial Eminence;;Might and Influence;;Omen on the Winds;;Collateral Damage;;Weight of Sin;;Pacifism;;Cheap Construction;;Grand Spectrum;;Intuitive Leap;;Pugilist;;Ring of Blades;;Static Electricity;;Sacrificial Harvest;;The Golden Rule;;Sudden Ignition;;Hotfooted;;Fluid Motion;;Careful Planning;;Conqueror's Longevity;;Poacher's Aim;;Self-Flagellation;;Hidden Potential;;Survival Instincts;;Cold Steel;;Chill of Corruption;;Pitch Darkness;;Pure Talent;;Hungry Abyss;;The Green Dream;;Emperor's Cunning;;The Green Nightmare
 Leather Belt-->>Cyclopean Coil;;Wurm's Molt;;Immortal Flesh;;Headhunter;;Umbilicus Immortalis
 Stygian Vise-->>Darkness Enthroned
-Unset Ring-->>Malachai's Artifice;;The Pariah;;Essence Worm;;Mutewind Seal;;The Hungry Loop;;Brinerot Mark;;Voideye;;Redblade Band
+Unset Ring-->>Malachai's Artifice;;The Pariah;;Essence Worm;;Mutewind Seal;;The Hungry Loop;;Brinerot Mark;;Voideye;;Redblade Band;;Angler's Plait
 Throat Stabber-->>The Wasp Nest
 War Hammer-->>Brightbeak;;Lavianga's Wisdom
 Imperial Claw-->>Hand of Wisdom and Action;;Touch of Anguish;;Izaro's Dilemma
@@ -199,7 +199,7 @@ Spiked Club-->>Gorebreaker
 Shadow Sceptre-->>The Dark Seer;;Bitterdream
 Samite Helmet-->>Hrimnor's Resolve
 Tiger Sword-->>Terminus Est
-Whalebone Rapier-->>The Goddess Bound
+Whalebone Rapier-->>The Goddess Bound;;Tipua Kaikohuru
 Soldier Gloves-->>Southbound
 Decimation Bow-->>Infractem
 Strapped Mitts-->>Facebreaker
@@ -213,7 +213,7 @@ Riveted Boots-->>Ralakesh's Impatience
 Penetrating Arrow Quiver-->>Drillneck
 Black Maw Talisman-->>Night's Hold
 Spidersilk Robe-->>The Covenant;;Soul Mantle
-Conjurer Gloves-->>Voidbringer
+Conjurer Gloves-->>Voidbringer;;Hellbringer
 Decorative Axe-->>Relentless Fury
 Vaal Regalia-->>The Beast Fur Shawl
 Lunaris Circlet-->>Doedre's Scorn
@@ -443,7 +443,7 @@ Grand Mana Flask-->>Zerphi's Last Breath
 Golden Bracers-->>Demigod's Touch
 Legion Gloves-->>Null and Void
 Leatherscale Boots-->>Dusktoe
-Cured Quiver-->>Blackgleam
+Cured Quiver-->>Blackgleam;;The Signal Fire
 Greatwolf Talisman-->>Eyes of the Greatwolf
 Rotfeather Talisman-->>Natural Hierarchy
 Jet Amulet-->>Talisman of the Victor

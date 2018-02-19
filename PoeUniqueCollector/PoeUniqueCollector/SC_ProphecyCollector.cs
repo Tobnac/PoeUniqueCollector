@@ -28,7 +28,7 @@ namespace PoeUniqueCollector
             }
             catch (Exception e)
             {
-                Console.WriteLine("Error while reading UniqueData file");
+                Console.WriteLine("Error while reading ProphecyData file");
                 Console.WriteLine(e.Message);
                 Console.ReadLine();
                 return;
