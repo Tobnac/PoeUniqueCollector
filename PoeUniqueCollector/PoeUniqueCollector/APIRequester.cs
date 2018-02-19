@@ -28,22 +28,26 @@ namespace PoeUniqueCollector
         private string nextID = "";
         private string nextIDFilePath = "..\\..\\NextChangeID.txt";
         private bool isUpToDate;
-        private List<Task<string>> openRequests = new List<Task<string>>(); // placeholder for multiple async requests
+        private Task<string> openRequest;
         private StashScanner scanner;
 
         public APIRequester()
         {
             this.scanner = new StashScanner(this);
-            this.SearchForNextIDInFile();
+            this.ReadNextIDFromFile();
         }
 
         public void Run()
         {
-            var response = GetResponseAsync();            
+            this.SendRequest();
+            this.AwaitResponse();
+        }
 
+        private void AwaitResponse()
+        {
             while (true)
             {
-                if (response.IsCompleted)
+                if (this.openRequest.IsCompleted)
                 {
                     Console.WriteLine("Response received!");
                     this.isUpToDate = false;
@@ -52,18 +56,19 @@ namespace PoeUniqueCollector
 
                 else
                 {
-                    Console.WriteLine(response.Status);
+                    Console.WriteLine(this.openRequest.Status);
                 }
 
                 Thread.Sleep(500);
             }
-            
-            this.scanner.ParseToObject(response.Result);
+
+            this.scanner.ParseToObject(this.openRequest.Result);
+            this.SendRequest();
             this.scanner.ScanUniques();
-            UpdateNextID(response.Result);
+            this.AwaitResponse();
         }
 
-        private void SearchForNextIDInFile()
+        private void ReadNextIDFromFile()
         {
             string content;
 
@@ -88,7 +93,13 @@ namespace PoeUniqueCollector
             System.IO.File.WriteAllLines(this.nextIDFilePath, myContent);
         }
 
-        private async Task<string> GetResponseAsync()
+        private void SendRequest()
+        {
+            var request = CreateRequestAsync();
+            this.openRequest = request;
+        }
+
+        private async Task<string> CreateRequestAsync()
         {
             var webClient = new WebClient();
             var reqUrl = this.BuildRequestURL();
@@ -109,17 +120,6 @@ namespace PoeUniqueCollector
             }
 
             return url;
-        }
-
-        private void UpdateNextID(string s)
-        {
-            if (this.isUpToDate) return;
-
-            Console.WriteLine("Warning: Requester had to update nextID himself");
-
-            var nextID = s.Substring(19);
-            nextID = nextID.Split('"')[0];
-            this.NextID = nextID;
         }
 
     }

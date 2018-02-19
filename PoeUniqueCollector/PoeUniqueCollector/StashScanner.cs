@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace PoeUniqueCollector
@@ -25,6 +26,7 @@ namespace PoeUniqueCollector
         {
             this.PoEObject = PoEObject.FromJson(response);
             this.dataSource.NextID = this.PoEObject.NextChangeId;
+            Console.WriteLine("Response parsing complete");
             return this.PoEObject;
         }
 
@@ -39,6 +41,7 @@ namespace PoeUniqueCollector
             }
 
             this.SaveToFile();
+            Console.WriteLine("Unique scanning complete");
         }
 
         private void ScanUniqueItem(Item item)
@@ -100,8 +103,8 @@ namespace PoeUniqueCollector
             foreach (var entry in this.UniqueCollection)
             {
                 var line = entry.Key;
-                line += "->";
-                line += String.Join(",", entry.Value);
+                line += "-->>";
+                line += String.Join(";;", entry.Value);
                 content.Add(line);
             }
 
@@ -118,7 +121,7 @@ namespace PoeUniqueCollector
             }
             catch (Exception e)
             {
-                Console.WriteLine("Error while reading NextID file");
+                Console.WriteLine("Error while reading UniqueData file");
                 Console.WriteLine(e.Message);
                 Console.ReadLine();
                 return;
@@ -126,9 +129,9 @@ namespace PoeUniqueCollector
 
             foreach (var line in content)
             {
-                var split = line.Split("->");
+                var split = line.Split("-->>");
                 var baseType = split[0];
-                var names = split[1].Split(",");
+                var names = split[1].Split(";;");
 
                 this.UniqueCollection.Add(baseType, names.ToList());
             }

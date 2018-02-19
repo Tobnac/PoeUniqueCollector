@@ -1,442 +1,448 @@
-Cobalt Jewel->Hazardous Research,Eldritch Knowledge,Frozen Trail,Rolling Flames,Malicious Intent,The Long Winter,Conqueror's Potency,Violent Dead,Healthy Mind,From Dust,Grand Spectrum,Spreading Rot,Brittle Barrier,Winter's Bounty,Brute Force Solution,Fortified Legion,First Snow,Spirited Response,Primordial Harmony,Fertile Mind,Unending Hunger,Survival Secrets,Fevered Mind,Clear Mind,Dead Reckoning,Assassin's Haste,Inevitability,The Blue Dream,Soul's Wick,Energy From Within,Anatomical Knowledge,Powerlessness,To Dust,Unstable Payload,Reckless Defence,Vaal Sentencing,Mutated Growth,Corrupted Energy,The Blue Nightmare
-Jade Amulet->Karui Ward,The Pandemonius,The Halcyon,Rashkaldor's Patience,Karui Charge
-Rustic Sash->Prismweave,Feastbind,Faminebind,The Retch
-Dunes Map->Pillars of Arun
-Atoll Map->Maelström of Chaos
-Cloth Belt->Perandus Blazon,Sunblast,Soulthirst,Soul Tether,The Flow Untethered
-Crimson Jewel->Survival Skills,Inspired Learning,Brawn,Overwhelming Odds,Weight of the Empire,Winter Burial,Shattered Chains,Efficient Training,Rapid Expansion,Conqueror's Efficiency,Fireborn,Grand Spectrum,Coated Shrapnel,Wildfire,Rain of Splinters,Warlord's Reach,The Vigil,Fragile Bloom,Blood Sacrifice,Spire of Stone,Martial Artistry,Energised Armour,Might in All Forms,Inertia,The Red Dream,Fragility,Combustibles,Primordial Might,Atziri's Reign,Izaro's Turmoil,Ancient Waystones,Mantra of Flames,The Red Nightmare,Emperor's Might
-Fire Arrow Quiver->Blackgleam,The Signal Fire
-Two-Stone Ring->Berek's Pass,Berek's Grip,Call of the Brotherhood,Rigwald's Crest,Berek's Respite
-Turquoise Amulet->Ungil's Harmony,Maligaro's Cruelty,Warped Timepiece,Victario's Acuity
-Aventail Helmet->Mindspiral
-Granite Flask->Rumi's Concoction,Lion's Roar
-Simple Robe->Tabula Rasa,Thousand Ribbons,Skin of the Loyal,Skin of the Lords
-Silk Gloves->Asenath's Gentle Touch
-Plate Vest->Bramblejack,Wall of Brambles
-Sapphire Ring->Dream Fragments,Pyre,Tasalio's Sign,Snakepit
-Ezomyte Burgonet->Abyssus
-Heavy Belt->Meginord's Girdle,Doryani's Invitation,Belt of the Deceiver,Bisco's Leash,Dyadian Dawn
-Jade Hatchet->The Screaming Eagle,The Gryphon
-Etched Greatsword->Edge of Madness
-Leather Cap->Goldrim
-Lapis Amulet->Choir of the Storm,Tear of Purity,Stone of Lazhwar,Marylene's Fallacy,Voice of the Storm
-Amethyst Flask->Atziri's Promise
-Paua Ring->Praxis,Doedre's Damning,Perandus Signet
-Hubris Circlet->Crown of Eyes,Eber's Unification
-Terror Claw->The Scourge,Rive
-Shadow Axe->Reaper's Pursuit
-Antique Rapier->Ewar's Mirage
-Widowsilk Robe->Doedre's Skin,Infernal Mantle
-Ornate Sword->Queen's Decree,Queen's Escape
-Serpentscale Boots->Mutewind Whispersteps
-Sharktooth Arrow Quiver->Hyrri's Bite
-Silken Hood->Starkonja's Head
-Quicksilver Flask->Rotgut
-Ursine Pelt->Rat's Nest
-Gilded Sallet->Deidbellow,Deidbell
-Nightmare Bascinet->Devoto's Devotion,The Bringer of Rain
-Sinner Tricorne->Alpha's Howl
-Judgement Staff->Hegemony's Era,Pledge of Hands
-Great Crown->Geofri's Crest,Lightpoacher
-Viridian Jewel->Lioneye's Fall,Volley Fire,Spirit Guards,Hair Trigger,Fight for Survival,Apparitions,Steel Spirit,Growing Agony,Primordial Eminence,Might and Influence,Omen on the Winds,Collateral Damage,Weight of Sin,Pacifism,Cheap Construction,Grand Spectrum,Intuitive Leap,Pugilist,Ring of Blades,Static Electricity,Sacrificial Harvest,The Golden Rule,Sudden Ignition,Hotfooted,Fluid Motion,Careful Planning,Conqueror's Longevity,Poacher's Aim,Self-Flagellation,Hidden Potential,Survival Instincts,Cold Steel,Chill of Corruption,Pitch Darkness,Pure Talent,Hungry Abyss,The Green Dream
-Leather Belt->Cyclopean Coil,Wurm's Molt,Immortal Flesh,Headhunter,Umbilicus Immortalis
-Stygian Vise->Darkness Enthroned
-Unset Ring->Malachai's Artifice,The Pariah,Essence Worm,Mutewind Seal,The Hungry Loop,Brinerot Mark,Voideye,Redblade Band
-Throat Stabber->The Wasp Nest
-War Hammer->Brightbeak,Lavianga's Wisdom
-Imperial Claw->Hand of Wisdom and Action,Touch of Anguish,Izaro's Dilemma
-Onyx Amulet->Eye of Chayula,Impresence,Presence of Chayula,Carnage Heart,Astramentis,Yoke of Suffering,Hinekora's Sight
-Vaal Spirit Shield->Esh's Visage
-Iron Ring->Le Heup of All,The Warden's Brand,Blackheart,Voidheart
-Corsair Sword->Ichimonji
-Glorious Plate->Kaom's Heart
-Crusader Plate->Lioneye's Vision,Iron Heart
-Wool Gloves->Sadima's Touch
-Gold Ring->Ventor's Gamble,Andvarius
-Imperial Bow->Lioneye's Glare,Windripper
-Ruby Flask->Dying Sun,Coruscating Elixir
-Ancient Gauntlets->Winds of Change
-Stealth Boots->Sin Trek,Garukhan's Flight
-Demon Dagger->Vulconus
-Paua Amulet->Sidhebreath,Atziri's Foible
-Elegant Sword->Lakishu's Blade,The Goddess Scorned
-Crude Bow->Silverbranch,Silverbough
-Sulphur Flask->The Sorrow of the Divine,The Overflowing Chalice
-Bone Bow->Xoph's Inception
-Dragonscale Boots->Darkray Vectors
-Vanguard Belt->Perseverance
-Full Wyrmscale->Belly of the Beast
-Nubuck Boots->Goldwyrm
-Carved Wand->The Poet's Pen,Storm Prison
-Slink Boots->Atziri's Step
-Archon Kite Shield->Invictus Solaris,Prism Guardian,The Unshattered Will,Broken Faith
-Gold Amulet->Bisco's Collar,The Ignomon,The Ascetic,Winterheart,Demigod's Presence
-Sadist Garb->Inpulsa's Broken Heart,Tinkerskin
-Ornate Mace->Frostbreath
-Sabre->The Princess
-Steelscale Gauntlets->Tombfist,Aurseize
-Sage Wand->Twyzel,Shade of Solaris
-Deerskin Gloves->Maligaro's Virtuosity
-Goathide Boots->Abberath's Hooves,Victario's Flight
-Crystal Wand->Eclipse Solaris
-Assassin's Mitts->Snakebite,Blasphemer's Grasp
-Serrated Arrow Quiver->Craghead,Cragfall
-Wyrmscale Gauntlets->Wyrmsign
-Stiletto->Bloodplay
-Long Staff->Pillar of the Caged God
-Dread Maul->Voidhome
-Scholar Boots->Shavronne's Pace,Shavronne's Gambit
-Shagreen Boots->Three-step Assault
-Highland Blade->Rigwald's Charge
-Awl->Wildslash
-Vaal Claw->Allure,Essentia Sanguis
-Serpentine Staff->Sire of Shards
-Studded Round Shield->The Deep One's Hide
-Clasped Boots->Sundance
-Scholar's Robe->Cloak of Flame
-Goat's Horn->Abberath's Horn
-Tricorne->Fairgraves' Tricorne
-Painted Buckler->Kaltenhalt,Kaltensoul
-War Buckler->Chalice of Horrors,Thirst for Horrors
-Vaal Buckler->Thousand Teeth Temu
-Vaal Gauntlets->Doryani's Fist,Atziri's Acuity
-Spine Bow->Voltaxic Rift,Reach of the Council
-Recurve Bow->Roth's Reach
-Nailed Fist->Last Resort
-Two-Point Arrow Quiver->Asphyxia's Wrath,Skirmish,Rigwald's Quills
-Timeworn Claw->Al Dhih
-Brass Maul->Geofri's Baptism
-Tomahawk->Moonbender's Wing
-Royal Bow->Doomfletch,Doomfletch's Prism
-Gnarled Branch->Fencoil,The Blood Thorn
-Bronze Sceptre->Axiom Perpetuum
-Skinning Knife->Goredrill
-Quartz Wand->Ashcaller
-Woodsplitter->Limbsplit,The Cauteriser
-Boot Knife->Ungil's Gauche
-Plank Kite Shield->Springleaf,The Oak
-Driftwood Wand->Lifesprig
-Coral Ring->Kaom's Sign,Bloodboil,Sibyl's Lament,Kaom's Way
-Bastard Sword->Shiversting
-Agate Amulet->Shaper's Seed,Extractor Mentis,The Aylardex,Voll's Devotion
-Iron Mask->Malachai's Simula
-Moonstone Ring->Timeclasp,Heartbound Loop,Shavronne's Revelation,Valyrium
-Goathide Gloves->Hrimsorrow,Hrimburn
-Soldier Helmet->Honourhome
-Cleaver->Dreadarc
-Iron Circlet->Asenath's Mark
-Underground River Map->Caer Blaidd, Wolfpack's Den,Caer Blaidd, Wolfpack's Den,Caer Blaidd, Wolfpack's Den,Caer Blaidd, Wolfpack's Den
-Despot Axe->Debeon's Dirge,Kingmaker
-Silk Slippers->Bones of Ullr
-Mesh Boots->Wake of Destruction
-Dream Mace->Flesh-Eater
-Gavel->Cameria's Maul,Mjölner
-Topaz Ring->Kikazaru,Valako's Sign
-Short Bow->Quill Rain
-Military Staff->Tremor Rod
-Visored Sallet->The Peregrine
-Bronze Gauntlets->Giantsbane
-Long Bow->Storm Cloud,The Tempest
-Twilight Blade->Prismatic Eclipse
-Greater Mana Flask->Doedre's Elixir
-Golden Buckler->Atziri's Mirror
-Praetor Crown->Ahn's Contempt,Voll's Vision,Memory Vault,Malachai's Vision
-Studded Belt->The Magnate,Ryslatha's Coil
-Temple Map->Poorjoy's Asylum
-Cursed Crypt Map->The Coward's Trial
-Strand Map->Whakawairua Tuahu
-Cemetery Map->Hallowed Ground
-Abyssal Axe->Ngamahu's Flame
-Promenade Map->Hall of Grandmasters
-Carnal Armour->Shroud of the Lightless,The Restless Ward
-Prismatic Jewel->Watcher's Eye,The Anima Stone
-Jewelled Foil->Cospri's Malice
-Wrapped Mitts->Ondar's Clasp
-Imbued Wand->Moonsorrow
-Latticed Ringmail->Icetomb
-Basket Rapier->Aurumvorax
-Marble Amulet->Bloodgrip
-Deerskin Boots->Deerstalker
-Bronzescale Boots->Lioneye's Paws
-Steel Gauntlets->Meginord's Vise
-Harbinger Bow->Nuro's Harp,Slivertongue
-Primordial Staff->Femurs of the Saints
-Crusader Chainmail->Ambu's Charge
-Destiny Leather->Queen of the Forest
-Prismatic Ring->Lori's Lantern,Thief's Torment,The Taming
-Reaver Sword->The Dancing Dervish,Hiltless
-Velvet Gloves->Doedre's Tenure
-Prophet Crown->Speaker's Wreath,The Broken Crown,The Brine Crown
-Dragonscale Gauntlets->Surgebinders
-Titan Gauntlets->Veruso's Battering Rams
-Legion Sword->Hyaon's Fury,The Rippling Thoughts
-Eternal Sword->Dreamfeather,Grelwood Shank,Beltimber Blade,The Goddess Unleashed
-Demon's Horn->Obliteration
-Quartz Flask->Forbidden Taste
-Royal Skean->Heartbreaker
-Plated Greaves->Stormcharger
-Leather Hood->Heatshiver
-Full Dragonscale->Daresso's Defiance
-Headsman Axe->The Blood Reaper
-Estoc->Daresso's Passion
-Conjurer Boots->Rainbowstride
-Goliath Gauntlets->Empire's Grasp
-Crystal Belt->Auxium
-Gladius->Scaeva
-Strapped Boots->Nomic's Storm
-Coral Amulet->Araku Tiki,Ngamahu Tiki,Bloodgrip
-Great Helmet->Veil of the Night
-Tarnished Spirit Shield->Matua Tupuna,Brinerot Flag
-Desert Brigandine->Lightning Coil
-Conquest Chainmail->Kingsguard
-Gut Ripper->Advancing Fortress,Ornament of the East
-Jagged Maul->Quecholli
-Crystal Sceptre->Nycta's Lantern,The Supreme Truth
-Vaal Blade->Rebuke of the Vaal,Varunastra
-Amber Amulet->The Anvil,Xoph's Blood,Xoph's Heart,Blood of Corruption
-Samite Gloves->Kalisa's Grace
-Spiked Club->Gorebreaker
-Shadow Sceptre->The Dark Seer,Bitterdream
-Samite Helmet->Hrimnor's Resolve
-Tiger Sword->Terminus Est
-Whalebone Rapier->The Goddess Bound
-Soldier Gloves->Southbound
-Decimation Bow->Infractem
-Strapped Mitts->Facebreaker
-Elder Sword->Innsbury Edge
-Compound Spiked Shield->Maligaro's Lens
-Necromancer Circlet->Chitus' Apex
-Ezomyte Staff->Cane of Unravelling
-Infernal Sword->Oro's Sacrifice,Starforge
-Citrine Amulet->Daresso's Salute,Eye of Innocence
-Riveted Boots->Ralakesh's Impatience
-Penetrating Arrow Quiver->Drillneck
-Black Maw Talisman->Night's Hold
-Spidersilk Robe->The Covenant,Soul Mantle
-Conjurer Gloves->Voidbringer
-Decorative Axe->Relentless Fury
-Vaal Regalia->The Beast Fur Shawl
-Lunaris Circlet->Doedre's Scorn
-Harmonic Spirit Shield->Malachai's Loop
-Assassin's Garb->Cospri's Will
-Velvet Slippers->Wondertrap
-Ruby Ring->Mokou's Embrace,Emberwake,Ngamahu's Sign
-Sundering Axe->Wings of Entropy
-Destroyer Regalia->The Coming Calamity
-Imperial Staff->Agnerod North,Agnerod West,Agnerod South,Agnerod East,The Enmity Divine
-Chain Gloves->Shackles of the Wretched
-Deicide Mask->Heretic's Veil
-Imperial Skean->Divinarius,White Wind
-Cutthroat's Garb->Bronn's Lithe
-Maelström Staff->Taryn's Shiver,Duskdawn
-Boot Blade->Widowmaker
-Spiraled Wand->Tulborn,Reverberation Rod,Amplification Rod
-Karui Sceptre->Death's Hand
-Rawhide Tower Shield->Lycosidae
-Astral Plate->Death's Oath
-Royal Staff->The Stormheart
-Ancient Greaves->Redblade Tramplers
-Pine Buckler->Crest of Perandus
-Enameled Buckler->Mutewind Pennant
-Bone Circlet->Wraithlord
-Bronzescale Gauntlets->Vaal Caress,Slitherpinch
-Vine Circlet->Martyr's Crown,Crown of Thorns
-Mind Cage->Rime Gaze,Scold's Bridle
-Carnal Mitts->The Embalmer
-Arcanist Gloves->Grip of the Council
-Titan Greaves->Kaom's Roots,The Red Trail
-Iron Gauntlets->Lochtonial Caress
-Opal Sceptre->Balefire
-Zealot Helmet->Kitava's Thirst
-Platinum Sceptre->Singularity
-Chain Belt->Maligaro's Restraint,Bated Breath,Ascent From Flesh,Auxium
-Great Mallet->Chober Chaber,Trypanon
-Death Bow->Death's Harp,Iron Commander,Death's Opus
-Diamond Flask->Coralito's Signature
-Buckskin Tunic->Ashrend
-Zodiac Leather->Hyrri's Ire,The Perfect Form
-Wild Leather->Foxshade
-Karui Chopper->Kaom's Primacy
-Ezomyte Blade->Kondo's Pride
-Opal Wand->Apep's Rage
-Holy Chainmail->Voll's Protector
-Strapped Leather->Briskwrap
-Diamond Ring->Romira's Banquet,Gifts from Above
-Ironscale Boots->Dusktoe
-Charan's Sword->Oni-Goroshi
-Lathi->The Searing Touch
-Iron Staff->Dying Breath,Realmshaper,Realm Ender
-Vile Staff->The Whispering Ice
-Reinforced Greaves->Windscream
-Bismuth Flask->The Wise Oak
-Tornado Wand->Piscator's Vigil,Tulfall,Shimmeron
-Serpentscale Gauntlets->Haemophilia
-Dusk Blade->Ephemeral Edge
-Bone Armour->Bloodbond
-Ebony Tower Shield->Chernobog's Pillar,Tukohama's Fortress
-Baroque Round Shield->Daresso's Courage
-Highborn Staff->Martyr of Innocence
-Void Sceptre->Mon'tregul's Grasp,Augyre
-Ambusher->Taproot
-Secutor Helm->Skullhead
-Sentinel Jacket->Dendrobate
-Occultist's Vestment->Shavronne's Wrappings,Infernal Mantle
-Laminated Kite Shield->Victario's Charity
-Infernal Axe->Dyadus
-Necropolis Map->Death and Taxes
-Zealot Gloves->Volkuur's Guidance
-Festival Mask->Leer Cast
-Vaal Mask->The Vertex
-Sacrificial Garb->Atziri's Splendour
-Crusader Gloves->Shaper's Touch,Repentance
-Vaal Sceptre->Doryani's Catalyst,Doon Cuebiyari
-Blunt Arrow Quiver->Maloney's Nightfall,The Fracturing Spinner
-Thorium Spirit Shield->Esh's Mirror
-Slaughter Knife->Bino's Kitchen Knife
-Murder Mitts->Thunderfist,Malachai's Mark
-Murder Boots->Voidwalker,Bubonic Trail
-Necromancer Silks->Vis Mortis
-Wool Shoes->Wanderlust
-Titanium Spirit Shield->Rathpith Globe
-Assassin Bow->Chin Sol,Darkscorn,Arborix
-Overgrown Shrine Map->Acton's Nightmare
-Triumphant Lamellar->Cherrubim's Maleficence
-War Sword->The Tempestuous Steel
-Cardinal Round Shield->Vix Lunaris
-Lacquered Helmet->Black Sun Crest
-Vaal Pyramid Map->Vaults of Atziri
-Blinder->Hand of Thought and Motion
-Lion Sword->Doomsower
-Fright Claw->Mortem Morsu
-Mosaic Kite Shield->Rise of the Phoenix
-Rusted Sword->Redbeak
-Karui Maul->Marohi Erqi
-Jagged Foil->Fidelitas' Spike
-Thresher Claw->Cybil's Paw
-Legion Boots->Gang's Momentum
-Sledgehammer->Hrimnor's Hymn,Hrimnor's Dirge
-Torture Chamber Map->Oba's Cursed Trove
-Soldier Boots->Alberon's Warpath
-Sharkskin Boots->The Blood Dance
-Sorcerer Gloves->Allelopathy
-Large Hybrid Flask->Divination Distillate
-Vaal Hatchet->Jack, the Axe,Jack, the Axe,Jack, the Axe,Jack, the Axe
-Terror Maul->Kongor's Undying Rage
-Hallowed Hybrid Flask->The Writhing Jar
-Brass Spirit Shield->Sentari's Answer
-Engraved Wand->Midnight Bargain
-Close Helmet->The Baron
-Supreme Spiked Shield->Jaws of Agony
-Spike-Point Arrow Quiver->Soul Strike,Saemus' Gift
-Lacquered Garb->Cloak of Defiance,Victario's Influence
-Imperial Maul->Tidebreaker
-Amethyst Ring->Ming's Heart,Death Rush
-Mirrored Spiked Shield->Leper's Alms
-Varnished Coat->Carcass Jack
-Bone Crypt Map->Olmec's Sanctum
-Champion Kite Shield->Aegis Aurora
-Stibnite Flask->Sin's Rebirth,Witchfire Brew
-Poleaxe->Wideswing
-Sapphire Flask->Taste of Hate
-Raven Mask->The Gull
-Golden Plate->Greed's Embrace
-Sorcerer Boots->Steppan Eard,Skyforth
-Nightmare Mace->Nebuloch
-Elegant Ringmail->Geofri's Sanctuary
-Rock Breaker->Clayshaper
-Saintly Chainmail->Incandescent Heart
-Silver Flask->Kiara's Determination
-Exquisite Leather->Kintsugi,Yriel's Fostering
-Golden Mask->The Three Dragons
-Labrys->Uul-Netol's Kiss
-Midnight Blade->Ahn's Might,Razor of the Seventh Sun,Rigwald's Command
-Rotted Round Shield->Wheel of the Stormsail
-Pinnacle Tower Shield->Lioneye's Remorse,Magna Eclipsis
-Wereclaw Talisman->Rigwald's Curse
-Blue Pearl Amulet->Gloomfang
-Platinum Kris->Mark of the Doubting Knight
-Ornate Ringmail->Lightbane Raiment
-Ivory Spirit Shield->Kongming's Stratagem
-Callous Mask Piece->Second Piece of Storms,First Piece of Storms,Third Piece of Storms
-Hellion's Paw->Bloodseeker
-Vaal Axe->Hezmana's Bloodlust,Atziri's Disfavour,Uul-Netol's Embrace
-Flaying Knife->Mightflay
-Reinforced Tower Shield->Titucius' Span
-Burnished Spiked Shield->Glitterdisc
-Topaz Flask->Vessel of Vinktar
-Harlequin Mask->Mind of the Council
-Iron Hat->Ezomyte Peak,Ezomyte Hold
-Sage's Robe->Zahndethus' Cassock,Dialla's Malefaction
-Fiend Dagger->The Consuming Dark,Arakaali's Fang
-Ruby Amulet->Star of Wraeclast
-Branded Kite Shield->Saffell's Frame
-Colossal Tower Shield->Ahn's Heritage
-Trapper Boots->Brinerot Whalers
-Ranger Bow->Hopeshredder,Null's Inclination
-Reef Map->Mao Kun
-Nubuck Gloves->Oskarm
-Jasper Chopper->The Harvest
-Copper Plate->Solaris Lorica
-Goliath Greaves->The Infinite Pursuit
-Citadel Bow->Xoph's Nurture
-Meatgrinder->Brain Rattler
-Broadhead Arrow Quiver->Rearguard
-Void Axe->Kitava's Feast
-Auric Mace->Callinellus Malleus
-Cutlass->Severed in Sleep,United in Dream
-Gladiator Plate->The Brass Dome
-Wyrmscale Doublet->Gruthkul's Pelt
-Callous Mask->The Tempest's Binding
-Ezomyte Tower Shield->The Surrender,The Anticipation
-Crusader Boots->Death's Door
-Elegant Foil->Chitus' Needle
-Siege Axe->Soul Taker
-Iron Sceptre->Spine of the First Claimant
-Shore Map->Mao Kun
-Archon Kite Shield Piece->Third Piece of Focus,Fourth Piece of Focus,First Piece of Focus,Second Piece of Focus
-Cloth Belt Piece->First Piece of Time,Second Piece of Time
-Blunt Arrow Quiver Piece->First Piece of Directions,Third Piece of Directions,Second Piece of Directions
-Imperial Staff Piece->First Piece of Brutality,Third Piece of Brutality,Second Piece of Brutality
-Legion Sword Piece->First Piece of the Arcane,Third Piece of the Arcane
-Corrugated Buckler->Great Old One's Ward
-Carnal Sceptre->Breath of the Council
-Heavy Quiver->Broadstroke
-Moon Temple Map->The Twilight Temple
-Painted Tower Shield->Redblade Banner
-Courtyard Map->The Vinktar Square
-Chateau Map->The Perandus Manor
-Regicide Mask->Crown of the Pale King
-Royal Axe->Rigwald's Savagery
-Arcanist Slippers->Inya's Epiphany
-Harbinger Map->The Beachhead
-Siege Helmet->The Formless Flame
-Maze Map->Olmec's Sanctum
-Coronal Leather->The Snowblind Grace
-Rawhide Boots->Seven-League Step
-Coiled Staff->Xirgil's Crank
-Prophecy Wand->Void Battery
-Clasped Mitts->Shadows and Dust
-Sanctified Life Flask->Blood of the Karui
-Jingling Spirit Shield->Light of Lunaris
-Lion Pelt->Obscurantis
-Ironscale Gauntlets->Flesh and Spirit
-Graveyard Map->Hallowed Ground
-Ritual Sceptre->Brutus' Lead Sprinkler
-Museum Map->The Putrid Cloister
-Cedar Tower Shield->Trolltimber Spire
-Savant's Robe->Cloak of Tawm'r Isley
-Steelhead->Jorrhast's Blacksteel
-Sanctified Mana Flask->Lavianga's Spirit
-Eye Gouger->Essentia Sanguis
-Full Scale Armour->Viper's Scales
-Golden Obi->Demigod's Bounty
-Golden Flame->Demigod's Beacon
-Golden Wreath->Demigod's Triumph
-Golden Hoop->Demigod's Eye
-Golden Caligae->Demigod's Stride
-Fishing Rod->Reefbane
-Royal Burgonet->The Formless Inferno
-Clutching Talisman->Blightwell
-Golden Mantle->Demigod's Dominance
-Sharkskin Tunic->The Rat Cage
-Grand Mana Flask->Zerphi's Last Breath
+Cobalt Jewel-->>Hazardous Research;;Eldritch Knowledge;;Frozen Trail;;Rolling Flames;;Malicious Intent;;The Long Winter;;Conqueror's Potency;;Violent Dead;;Healthy Mind;;From Dust;;Grand Spectrum;;Spreading Rot;;Brittle Barrier;;Winter's Bounty;;Brute Force Solution;;Fortified Legion;;First Snow;;Spirited Response;;Primordial Harmony;;Fertile Mind;;Unending Hunger;;Survival Secrets;;Fevered Mind;;Clear Mind;;Dead Reckoning;;Assassin's Haste;;Inevitability;;The Blue Dream;;Soul's Wick;;Energy From Within;;Anatomical Knowledge;;Powerlessness;;To Dust;;Unstable Payload;;Reckless Defence;;Vaal Sentencing;;Mutated Growth;;Corrupted Energy;;The Blue Nightmare;;Emperor's Wit
+Jade Amulet-->>Karui Ward;;The Pandemonius;;The Halcyon;;Rashkaldor's Patience;;Karui Charge
+Rustic Sash-->>Prismweave;;Feastbind;;Faminebind;;The Retch
+Dunes Map-->>Pillars of Arun
+Atoll Map-->>Maelström of Chaos
+Cloth Belt-->>Perandus Blazon;;Sunblast;;Soulthirst;;Soul Tether;;The Flow Untethered
+Crimson Jewel-->>Survival Skills;;Inspired Learning;;Brawn;;Overwhelming Odds;;Weight of the Empire;;Winter Burial;;Shattered Chains;;Efficient Training;;Rapid Expansion;;Conqueror's Efficiency;;Fireborn;;Grand Spectrum;;Coated Shrapnel;;Wildfire;;Rain of Splinters;;Warlord's Reach;;The Vigil;;Fragile Bloom;;Blood Sacrifice;;Spire of Stone;;Martial Artistry;;Energised Armour;;Might in All Forms;;Inertia;;The Red Dream;;Fragility;;Combustibles;;Primordial Might;;Atziri's Reign;;Izaro's Turmoil;;Ancient Waystones;;Mantra of Flames;;The Red Nightmare;;Emperor's Might
+Fire Arrow Quiver-->>Blackgleam;;The Signal Fire
+Two-Stone Ring-->>Berek's Pass;;Berek's Grip;;Call of the Brotherhood;;Rigwald's Crest;;Berek's Respite
+Turquoise Amulet-->>Ungil's Harmony;;Maligaro's Cruelty;;Warped Timepiece;;Victario's Acuity
+Aventail Helmet-->>Mindspiral
+Granite Flask-->>Rumi's Concoction;;Lion's Roar
+Simple Robe-->>Tabula Rasa;;Thousand Ribbons;;Skin of the Loyal;;Skin of the Lords
+Silk Gloves-->>Asenath's Gentle Touch
+Plate Vest-->>Bramblejack;;Wall of Brambles
+Sapphire Ring-->>Dream Fragments;;Pyre;;Tasalio's Sign;;Snakepit
+Ezomyte Burgonet-->>Abyssus
+Heavy Belt-->>Meginord's Girdle;;Doryani's Invitation;;Belt of the Deceiver;;Bisco's Leash;;Dyadian Dawn
+Jade Hatchet-->>The Screaming Eagle;;The Gryphon
+Etched Greatsword-->>Edge of Madness
+Leather Cap-->>Goldrim
+Lapis Amulet-->>Choir of the Storm;;Tear of Purity;;Stone of Lazhwar;;Marylene's Fallacy;;Voice of the Storm
+Amethyst Flask-->>Atziri's Promise
+Paua Ring-->>Praxis;;Doedre's Damning;;Perandus Signet
+Hubris Circlet-->>Crown of Eyes;;Eber's Unification;;Ylfeban's Trickery
+Terror Claw-->>The Scourge;;Rive
+Shadow Axe-->>Reaper's Pursuit
+Antique Rapier-->>Ewar's Mirage
+Widowsilk Robe-->>Doedre's Skin;;Infernal Mantle
+Ornate Sword-->>Queen's Decree;;Queen's Escape
+Serpentscale Boots-->>Mutewind Whispersteps
+Sharktooth Arrow Quiver-->>Hyrri's Bite
+Silken Hood-->>Starkonja's Head
+Quicksilver Flask-->>Rotgut
+Ursine Pelt-->>Rat's Nest
+Gilded Sallet-->>Deidbellow;;Deidbell
+Nightmare Bascinet-->>Devoto's Devotion;;The Bringer of Rain
+Sinner Tricorne-->>Alpha's Howl
+Judgement Staff-->>Hegemony's Era;;Pledge of Hands
+Great Crown-->>Geofri's Crest;;Lightpoacher
+Viridian Jewel-->>Lioneye's Fall;;Volley Fire;;Spirit Guards;;Hair Trigger;;Fight for Survival;;Apparitions;;Steel Spirit;;Growing Agony;;Primordial Eminence;;Might and Influence;;Omen on the Winds;;Collateral Damage;;Weight of Sin;;Pacifism;;Cheap Construction;;Grand Spectrum;;Intuitive Leap;;Pugilist;;Ring of Blades;;Static Electricity;;Sacrificial Harvest;;The Golden Rule;;Sudden Ignition;;Hotfooted;;Fluid Motion;;Careful Planning;;Conqueror's Longevity;;Poacher's Aim;;Self-Flagellation;;Hidden Potential;;Survival Instincts;;Cold Steel;;Chill of Corruption;;Pitch Darkness;;Pure Talent;;Hungry Abyss;;The Green Dream;;Emperor's Cunning;;The Green Nightmare
+Leather Belt-->>Cyclopean Coil;;Wurm's Molt;;Immortal Flesh;;Headhunter;;Umbilicus Immortalis
+Stygian Vise-->>Darkness Enthroned
+Unset Ring-->>Malachai's Artifice;;The Pariah;;Essence Worm;;Mutewind Seal;;The Hungry Loop;;Brinerot Mark;;Voideye;;Redblade Band
+Throat Stabber-->>The Wasp Nest
+War Hammer-->>Brightbeak;;Lavianga's Wisdom
+Imperial Claw-->>Hand of Wisdom and Action;;Touch of Anguish;;Izaro's Dilemma
+Onyx Amulet-->>Eye of Chayula;;Impresence;;Presence of Chayula;;Carnage Heart;;Astramentis;;Yoke of Suffering;;Hinekora's Sight
+Vaal Spirit Shield-->>Esh's Visage
+Iron Ring-->>Le Heup of All;;The Warden's Brand;;Blackheart;;Voidheart
+Corsair Sword-->>Ichimonji
+Glorious Plate-->>Kaom's Heart
+Crusader Plate-->>Lioneye's Vision;;Iron Heart
+Wool Gloves-->>Sadima's Touch
+Gold Ring-->>Ventor's Gamble;;Andvarius
+Imperial Bow-->>Lioneye's Glare;;Windripper
+Ruby Flask-->>Dying Sun;;Coruscating Elixir
+Ancient Gauntlets-->>Winds of Change
+Stealth Boots-->>Sin Trek;;Garukhan's Flight
+Demon Dagger-->>Vulconus
+Paua Amulet-->>Sidhebreath;;Atziri's Foible
+Elegant Sword-->>Lakishu's Blade;;The Goddess Scorned
+Crude Bow-->>Silverbranch;;Silverbough
+Sulphur Flask-->>The Sorrow of the Divine;;The Overflowing Chalice
+Bone Bow-->>Xoph's Inception
+Dragonscale Boots-->>Darkray Vectors
+Vanguard Belt-->>Perseverance
+Full Wyrmscale-->>Belly of the Beast
+Nubuck Boots-->>Goldwyrm
+Carved Wand-->>The Poet's Pen;;Storm Prison
+Slink Boots-->>Atziri's Step
+Archon Kite Shield-->>Invictus Solaris;;Prism Guardian;;The Unshattered Will;;Broken Faith
+Gold Amulet-->>Bisco's Collar;;The Ignomon;;The Ascetic;;Winterheart;;Demigod's Presence
+Sadist Garb-->>Inpulsa's Broken Heart;;Tinkerskin
+Ornate Mace-->>Frostbreath
+Sabre-->>The Princess
+Steelscale Gauntlets-->>Tombfist;;Aurseize
+Sage Wand-->>Twyzel;;Shade of Solaris
+Deerskin Gloves-->>Maligaro's Virtuosity
+Goathide Boots-->>Abberath's Hooves;;Victario's Flight
+Crystal Wand-->>Eclipse Solaris
+Assassin's Mitts-->>Snakebite;;Blasphemer's Grasp
+Serrated Arrow Quiver-->>Craghead;;Cragfall
+Wyrmscale Gauntlets-->>Wyrmsign
+Stiletto-->>Bloodplay
+Long Staff-->>Pillar of the Caged God;;The Searing Touch
+Dread Maul-->>Voidhome
+Scholar Boots-->>Shavronne's Pace;;Shavronne's Gambit
+Shagreen Boots-->>Three-step Assault
+Highland Blade-->>Rigwald's Charge
+Awl-->>Wildslash
+Vaal Claw-->>Allure;;Essentia Sanguis
+Serpentine Staff-->>Sire of Shards
+Studded Round Shield-->>The Deep One's Hide
+Clasped Boots-->>Sundance
+Scholar's Robe-->>Cloak of Flame
+Goat's Horn-->>Abberath's Horn
+Tricorne-->>Fairgraves' Tricorne
+Painted Buckler-->>Kaltenhalt;;Kaltensoul
+War Buckler-->>Chalice of Horrors;;Thirst for Horrors
+Vaal Buckler-->>Thousand Teeth Temu
+Vaal Gauntlets-->>Doryani's Fist;;Atziri's Acuity
+Spine Bow-->>Voltaxic Rift;;Reach of the Council
+Recurve Bow-->>Roth's Reach
+Nailed Fist-->>Last Resort
+Two-Point Arrow Quiver-->>Asphyxia's Wrath;;Skirmish;;Rigwald's Quills
+Timeworn Claw-->>Al Dhih
+Brass Maul-->>Geofri's Baptism
+Tomahawk-->>Moonbender's Wing
+Royal Bow-->>Doomfletch;;Doomfletch's Prism
+Gnarled Branch-->>Fencoil;;The Blood Thorn
+Bronze Sceptre-->>Axiom Perpetuum
+Skinning Knife-->>Goredrill
+Quartz Wand-->>Ashcaller
+Woodsplitter-->>Limbsplit;;The Cauteriser
+Boot Knife-->>Ungil's Gauche
+Plank Kite Shield-->>Springleaf;;The Oak
+Driftwood Wand-->>Lifesprig
+Coral Ring-->>Kaom's Sign;;Bloodboil;;Sibyl's Lament;;Kaom's Way
+Bastard Sword-->>Shiversting
+Agate Amulet-->>Shaper's Seed;;Extractor Mentis;;The Aylardex;;Voll's Devotion
+Iron Mask-->>Malachai's Simula
+Moonstone Ring-->>Timeclasp;;Heartbound Loop;;Shavronne's Revelation;;Valyrium
+Goathide Gloves-->>Hrimsorrow;;Hrimburn
+Soldier Helmet-->>Honourhome
+Cleaver-->>Dreadarc
+Iron Circlet-->>Asenath's Mark
+Underground River Map-->>Caer Blaidd, Wolfpack's Den
+Despot Axe-->>Debeon's Dirge;;Kingmaker
+Silk Slippers-->>Bones of Ullr
+Mesh Boots-->>Wake of Destruction
+Dream Mace-->>Flesh-Eater
+Gavel-->>Cameria's Maul;;Mjölner
+Topaz Ring-->>Kikazaru;;Valako's Sign
+Short Bow-->>Quill Rain
+Military Staff-->>Tremor Rod
+Visored Sallet-->>The Peregrine
+Bronze Gauntlets-->>Giantsbane
+Long Bow-->>Storm Cloud;;The Tempest
+Twilight Blade-->>Prismatic Eclipse
+Greater Mana Flask-->>Doedre's Elixir
+Golden Buckler-->>Atziri's Mirror
+Praetor Crown-->>Ahn's Contempt;;Voll's Vision;;Memory Vault;;Malachai's Vision
+Studded Belt-->>The Magnate;;Ryslatha's Coil
+Temple Map-->>Poorjoy's Asylum
+Cursed Crypt Map-->>The Coward's Trial
+Strand Map-->>Whakawairua Tuahu
+Cemetery Map-->>Hallowed Ground
+Abyssal Axe-->>Ngamahu's Flame
+Promenade Map-->>Hall of Grandmasters
+Carnal Armour-->>Shroud of the Lightless;;The Restless Ward
+Prismatic Jewel-->>Watcher's Eye;;The Anima Stone;;Emperor's Mastery
+Jewelled Foil-->>Cospri's Malice
+Wrapped Mitts-->>Ondar's Clasp
+Imbued Wand-->>Moonsorrow
+Latticed Ringmail-->>Icetomb
+Basket Rapier-->>Aurumvorax
+Marble Amulet-->>Bloodgrip
+Deerskin Boots-->>Deerstalker
+Bronzescale Boots-->>Lioneye's Paws
+Steel Gauntlets-->>Meginord's Vise;;Deshret's Vise
+Harbinger Bow-->>Nuro's Harp;;Slivertongue
+Primordial Staff-->>Femurs of the Saints
+Crusader Chainmail-->>Ambu's Charge
+Destiny Leather-->>Queen of the Forest
+Prismatic Ring-->>Lori's Lantern;;Thief's Torment;;The Taming
+Reaver Sword-->>The Dancing Dervish;;Hiltless
+Velvet Gloves-->>Doedre's Tenure
+Prophet Crown-->>Speaker's Wreath;;The Broken Crown;;The Brine Crown
+Dragonscale Gauntlets-->>Surgebinders
+Titan Gauntlets-->>Veruso's Battering Rams
+Legion Sword-->>Hyaon's Fury;;The Rippling Thoughts
+Eternal Sword-->>Dreamfeather;;Grelwood Shank;;Beltimber Blade;;The Goddess Unleashed
+Demon's Horn-->>Obliteration
+Quartz Flask-->>Forbidden Taste
+Royal Skean-->>Heartbreaker
+Plated Greaves-->>Stormcharger
+Leather Hood-->>Heatshiver
+Full Dragonscale-->>Daresso's Defiance
+Headsman Axe-->>The Blood Reaper
+Estoc-->>Daresso's Passion
+Conjurer Boots-->>Rainbowstride
+Goliath Gauntlets-->>Empire's Grasp
+Crystal Belt-->>Auxium
+Gladius-->>Scaeva
+Strapped Boots-->>Nomic's Storm
+Coral Amulet-->>Araku Tiki;;Ngamahu Tiki;;Bloodgrip
+Great Helmet-->>Veil of the Night
+Tarnished Spirit Shield-->>Matua Tupuna;;Brinerot Flag
+Desert Brigandine-->>Lightning Coil
+Conquest Chainmail-->>Kingsguard
+Gut Ripper-->>Advancing Fortress;;Ornament of the East
+Jagged Maul-->>Quecholli
+Crystal Sceptre-->>Nycta's Lantern;;The Supreme Truth
+Vaal Blade-->>Rebuke of the Vaal;;Varunastra
+Amber Amulet-->>The Anvil;;Xoph's Blood;;Xoph's Heart;;Blood of Corruption
+Samite Gloves-->>Kalisa's Grace
+Spiked Club-->>Gorebreaker
+Shadow Sceptre-->>The Dark Seer;;Bitterdream
+Samite Helmet-->>Hrimnor's Resolve
+Tiger Sword-->>Terminus Est
+Whalebone Rapier-->>The Goddess Bound
+Soldier Gloves-->>Southbound
+Decimation Bow-->>Infractem
+Strapped Mitts-->>Facebreaker
+Elder Sword-->>Innsbury Edge
+Compound Spiked Shield-->>Maligaro's Lens
+Necromancer Circlet-->>Chitus' Apex
+Ezomyte Staff-->>Cane of Unravelling
+Infernal Sword-->>Oro's Sacrifice;;Starforge
+Citrine Amulet-->>Daresso's Salute;;Eye of Innocence
+Riveted Boots-->>Ralakesh's Impatience
+Penetrating Arrow Quiver-->>Drillneck
+Black Maw Talisman-->>Night's Hold
+Spidersilk Robe-->>The Covenant;;Soul Mantle
+Conjurer Gloves-->>Voidbringer
+Decorative Axe-->>Relentless Fury
+Vaal Regalia-->>The Beast Fur Shawl
+Lunaris Circlet-->>Doedre's Scorn
+Harmonic Spirit Shield-->>Malachai's Loop
+Assassin's Garb-->>Cospri's Will
+Velvet Slippers-->>Wondertrap
+Ruby Ring-->>Mokou's Embrace;;Emberwake;;Ngamahu's Sign
+Sundering Axe-->>Wings of Entropy
+Destroyer Regalia-->>The Coming Calamity
+Imperial Staff-->>Agnerod North;;Agnerod West;;Agnerod South;;Agnerod East;;The Enmity Divine
+Chain Gloves-->>Shackles of the Wretched
+Deicide Mask-->>Heretic's Veil
+Imperial Skean-->>Divinarius;;White Wind
+Cutthroat's Garb-->>Bronn's Lithe
+Maelström Staff-->>Taryn's Shiver;;Duskdawn
+Boot Blade-->>Widowmaker
+Spiraled Wand-->>Tulborn;;Reverberation Rod;;Amplification Rod
+Karui Sceptre-->>Death's Hand
+Rawhide Tower Shield-->>Lycosidae
+Astral Plate-->>Death's Oath
+Royal Staff-->>The Stormheart
+Ancient Greaves-->>Redblade Tramplers
+Pine Buckler-->>Crest of Perandus
+Enameled Buckler-->>Mutewind Pennant
+Bone Circlet-->>Wraithlord
+Bronzescale Gauntlets-->>Vaal Caress;;Slitherpinch
+Vine Circlet-->>Martyr's Crown;;Crown of Thorns
+Mind Cage-->>Rime Gaze;;Scold's Bridle
+Carnal Mitts-->>The Embalmer
+Arcanist Gloves-->>Grip of the Council
+Titan Greaves-->>Kaom's Roots;;The Red Trail
+Iron Gauntlets-->>Lochtonial Caress
+Opal Sceptre-->>Balefire
+Zealot Helmet-->>Kitava's Thirst
+Platinum Sceptre-->>Singularity
+Chain Belt-->>Maligaro's Restraint;;Bated Breath;;Ascent From Flesh;;Auxium
+Great Mallet-->>Chober Chaber;;Trypanon
+Death Bow-->>Death's Harp;;Iron Commander;;Death's Opus
+Diamond Flask-->>Coralito's Signature
+Buckskin Tunic-->>Ashrend
+Zodiac Leather-->>Hyrri's Ire;;The Perfect Form
+Wild Leather-->>Foxshade
+Karui Chopper-->>Kaom's Primacy
+Ezomyte Blade-->>Kondo's Pride
+Opal Wand-->>Apep's Rage
+Holy Chainmail-->>Voll's Protector
+Strapped Leather-->>Briskwrap
+Diamond Ring-->>Romira's Banquet;;Gifts from Above
+Ironscale Boots-->>Dusktoe
+Charan's Sword-->>Oni-Goroshi
+Lathi-->>The Searing Touch
+Iron Staff-->>Dying Breath;;Realmshaper;;Realm Ender
+Vile Staff-->>The Whispering Ice
+Reinforced Greaves-->>Windscream
+Bismuth Flask-->>The Wise Oak
+Tornado Wand-->>Piscator's Vigil;;Tulfall;;Shimmeron
+Serpentscale Gauntlets-->>Haemophilia
+Dusk Blade-->>Ephemeral Edge
+Bone Armour-->>Bloodbond
+Ebony Tower Shield-->>Chernobog's Pillar;;Tukohama's Fortress
+Baroque Round Shield-->>Daresso's Courage
+Highborn Staff-->>Martyr of Innocence
+Void Sceptre-->>Mon'tregul's Grasp;;Augyre
+Ambusher-->>Taproot
+Secutor Helm-->>Skullhead
+Sentinel Jacket-->>Dendrobate
+Occultist's Vestment-->>Shavronne's Wrappings;;Infernal Mantle
+Laminated Kite Shield-->>Victario's Charity
+Infernal Axe-->>Dyadus
+Necropolis Map-->>Death and Taxes
+Zealot Gloves-->>Volkuur's Guidance
+Festival Mask-->>Leer Cast
+Vaal Mask-->>The Vertex
+Sacrificial Garb-->>Atziri's Splendour
+Crusader Gloves-->>Shaper's Touch;;Repentance
+Vaal Sceptre-->>Doryani's Catalyst;;Doon Cuebiyari
+Blunt Arrow Quiver-->>Maloney's Nightfall;;The Fracturing Spinner
+Thorium Spirit Shield-->>Esh's Mirror
+Slaughter Knife-->>Bino's Kitchen Knife
+Murder Mitts-->>Thunderfist;;Malachai's Mark
+Murder Boots-->>Voidwalker;;Bubonic Trail
+Necromancer Silks-->>Vis Mortis
+Wool Shoes-->>Wanderlust
+Titanium Spirit Shield-->>Rathpith Globe
+Assassin Bow-->>Chin Sol;;Darkscorn;;Arborix
+Overgrown Shrine Map-->>Acton's Nightmare
+Triumphant Lamellar-->>Cherrubim's Maleficence
+War Sword-->>The Tempestuous Steel
+Cardinal Round Shield-->>Vix Lunaris
+Lacquered Helmet-->>Black Sun Crest
+Vaal Pyramid Map-->>Vaults of Atziri
+Blinder-->>Hand of Thought and Motion
+Lion Sword-->>Doomsower
+Fright Claw-->>Mortem Morsu
+Mosaic Kite Shield-->>Rise of the Phoenix
+Rusted Sword-->>Redbeak
+Karui Maul-->>Marohi Erqi
+Jagged Foil-->>Fidelitas' Spike
+Thresher Claw-->>Cybil's Paw
+Legion Boots-->>Gang's Momentum
+Sledgehammer-->>Hrimnor's Hymn;;Hrimnor's Dirge
+Torture Chamber Map-->>Oba's Cursed Trove
+Soldier Boots-->>Alberon's Warpath
+Sharkskin Boots-->>The Blood Dance
+Sorcerer Gloves-->>Allelopathy
+Large Hybrid Flask-->>Divination Distillate
+Vaal Hatchet-->>Jack, the Axe
+Terror Maul-->>Kongor's Undying Rage
+Hallowed Hybrid Flask-->>The Writhing Jar
+Brass Spirit Shield-->>Sentari's Answer
+Engraved Wand-->>Midnight Bargain
+Close Helmet-->>The Baron
+Supreme Spiked Shield-->>Jaws of Agony
+Spike-Point Arrow Quiver-->>Soul Strike;;Saemus' Gift
+Lacquered Garb-->>Cloak of Defiance;;Victario's Influence
+Imperial Maul-->>Tidebreaker
+Amethyst Ring-->>Ming's Heart;;Death Rush
+Mirrored Spiked Shield-->>Leper's Alms
+Varnished Coat-->>Carcass Jack
+Bone Crypt Map-->>Olmec's Sanctum
+Champion Kite Shield-->>Aegis Aurora
+Stibnite Flask-->>Sin's Rebirth;;Witchfire Brew
+Poleaxe-->>Wideswing
+Sapphire Flask-->>Taste of Hate
+Raven Mask-->>The Gull
+Golden Plate-->>Greed's Embrace
+Sorcerer Boots-->>Steppan Eard;;Skyforth
+Nightmare Mace-->>Nebuloch
+Elegant Ringmail-->>Geofri's Sanctuary
+Rock Breaker-->>Clayshaper
+Saintly Chainmail-->>Incandescent Heart
+Silver Flask-->>Kiara's Determination
+Exquisite Leather-->>Kintsugi;;Yriel's Fostering
+Golden Mask-->>The Three Dragons
+Labrys-->>Uul-Netol's Kiss
+Midnight Blade-->>Ahn's Might;;Razor of the Seventh Sun;;Rigwald's Command
+Rotted Round Shield-->>Wheel of the Stormsail
+Pinnacle Tower Shield-->>Lioneye's Remorse;;Magna Eclipsis
+Wereclaw Talisman-->>Rigwald's Curse
+Blue Pearl Amulet-->>Gloomfang
+Platinum Kris-->>Mark of the Doubting Knight
+Ornate Ringmail-->>Lightbane Raiment
+Ivory Spirit Shield-->>Kongming's Stratagem
+Callous Mask Piece-->>Second Piece of Storms;;First Piece of Storms;;Third Piece of Storms
+Hellion's Paw-->>Bloodseeker
+Vaal Axe-->>Hezmana's Bloodlust;;Atziri's Disfavour;;Uul-Netol's Embrace
+Flaying Knife-->>Mightflay
+Reinforced Tower Shield-->>Titucius' Span
+Burnished Spiked Shield-->>Glitterdisc
+Topaz Flask-->>Vessel of Vinktar
+Harlequin Mask-->>Mind of the Council
+Iron Hat-->>Ezomyte Peak;;Ezomyte Hold
+Sage's Robe-->>Zahndethus' Cassock;;Dialla's Malefaction
+Fiend Dagger-->>The Consuming Dark;;Arakaali's Fang
+Ruby Amulet-->>Star of Wraeclast
+Branded Kite Shield-->>Saffell's Frame
+Colossal Tower Shield-->>Ahn's Heritage
+Trapper Boots-->>Brinerot Whalers
+Ranger Bow-->>Hopeshredder;;Null's Inclination
+Reef Map-->>Mao Kun
+Nubuck Gloves-->>Oskarm
+Jasper Chopper-->>The Harvest
+Copper Plate-->>Solaris Lorica
+Goliath Greaves-->>The Infinite Pursuit
+Citadel Bow-->>Xoph's Nurture
+Meatgrinder-->>Brain Rattler
+Broadhead Arrow Quiver-->>Rearguard
+Void Axe-->>Kitava's Feast
+Auric Mace-->>Callinellus Malleus
+Cutlass-->>Severed in Sleep;;United in Dream
+Gladiator Plate-->>The Brass Dome
+Wyrmscale Doublet-->>Gruthkul's Pelt
+Callous Mask-->>The Tempest's Binding
+Ezomyte Tower Shield-->>The Surrender;;The Anticipation
+Crusader Boots-->>Death's Door
+Elegant Foil-->>Chitus' Needle
+Siege Axe-->>Soul Taker
+Iron Sceptre-->>Spine of the First Claimant
+Shore Map-->>Mao Kun
+Archon Kite Shield Piece-->>Third Piece of Focus;;Fourth Piece of Focus;;First Piece of Focus;;Second Piece of Focus
+Cloth Belt Piece-->>First Piece of Time;;Second Piece of Time
+Blunt Arrow Quiver Piece-->>First Piece of Directions;;Third Piece of Directions;;Second Piece of Directions
+Imperial Staff Piece-->>First Piece of Brutality;;Third Piece of Brutality;;Second Piece of Brutality
+Legion Sword Piece-->>First Piece of the Arcane;;Third Piece of the Arcane;;Second Piece of the Arcane
+Corrugated Buckler-->>Great Old One's Ward
+Carnal Sceptre-->>Breath of the Council
+Heavy Quiver-->>Broadstroke
+Moon Temple Map-->>The Twilight Temple
+Painted Tower Shield-->>Redblade Banner
+Courtyard Map-->>The Vinktar Square
+Chateau Map-->>The Perandus Manor
+Regicide Mask-->>Crown of the Pale King
+Royal Axe-->>Rigwald's Savagery
+Arcanist Slippers-->>Inya's Epiphany
+Harbinger Map-->>The Beachhead
+Siege Helmet-->>The Formless Flame
+Maze Map-->>Olmec's Sanctum
+Coronal Leather-->>The Snowblind Grace
+Rawhide Boots-->>Seven-League Step
+Coiled Staff-->>Xirgil's Crank;;Dying Breath
+Prophecy Wand-->>Void Battery
+Clasped Mitts-->>Shadows and Dust
+Sanctified Life Flask-->>Blood of the Karui
+Jingling Spirit Shield-->>Light of Lunaris
+Lion Pelt-->>Obscurantis
+Ironscale Gauntlets-->>Flesh and Spirit
+Graveyard Map-->>Hallowed Ground
+Ritual Sceptre-->>Brutus' Lead Sprinkler
+Museum Map-->>The Putrid Cloister
+Cedar Tower Shield-->>Trolltimber Spire
+Savant's Robe-->>Cloak of Tawm'r Isley
+Steelhead-->>Jorrhast's Blacksteel
+Sanctified Mana Flask-->>Lavianga's Spirit
+Eye Gouger-->>Essentia Sanguis
+Full Scale Armour-->>Viper's Scales
+Golden Obi-->>Demigod's Bounty
+Golden Flame-->>Demigod's Beacon
+Golden Wreath-->>Demigod's Triumph
+Golden Hoop-->>Demigod's Eye
+Golden Caligae-->>Demigod's Stride
+Fishing Rod-->>Reefbane;;Song of the Sirens
+Royal Burgonet-->>The Formless Inferno
+Clutching Talisman-->>Blightwell
+Golden Mantle-->>Demigod's Dominance
+Sharkskin Tunic-->>The Rat Cage
+Grand Mana Flask-->>Zerphi's Last Breath
+Golden Bracers-->>Demigod's Touch
+Legion Gloves-->>Null and Void
+Leatherscale Boots-->>Dusktoe
+Cured Quiver-->>Blackgleam
+Greatwolf Talisman-->>Eyes of the Greatwolf
+Rotfeather Talisman-->>Natural Hierarchy

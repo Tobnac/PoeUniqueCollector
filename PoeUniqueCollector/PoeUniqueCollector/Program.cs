@@ -11,11 +11,7 @@ namespace PoeUniqueCollector
         static void Main(string[] args)
         {
             var api = new APIRequester();
-
-            while(true)
-            {
-                api.Run();
-            }
+            api.Run();
         }
     }
 }
