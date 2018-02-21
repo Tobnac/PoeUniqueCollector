@@ -36,6 +36,7 @@
       <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -47,13 +48,16 @@
   <ItemGroup>
     <Compile Include="APIRequester.cs" />
     <Compile Include="Helper.cs" />
-    <Compile Include="IScannerConfig.cs" />
+    <Compile Include="ItemProcessors\IScannerConfig.cs" />
+    <Compile Include="ItemProcessors\FlavourTextPrinter.cs" />
+    <Compile Include="ItemProcessors\PriceProcessor.cs" />
+    <Compile Include="ItemProcessors\PriceProcessorUtility.cs" />
     <Compile Include="PoEObject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ResponseParser.cs" />
-    <Compile Include="SC_ProphecyCollector.cs" />
-    <Compile Include="SC_UniqueCollector.cs" />
+    <Compile Include="ItemProcessors\SC_ProphecyCollector.cs" />
+    <Compile Include="ItemProcessors\SC_UniqueCollector.cs" />
     <Compile Include="StashScanner.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -361,7 +361,7 @@ Callous Mask Piece-->>Second Piece of Storms;;First Piece of Storms;;Third Piece
 Hellion's Paw-->>Bloodseeker
 Vaal Axe-->>Hezmana's Bloodlust;;Atziri's Disfavour;;Uul-Netol's Embrace
 Flaying Knife-->>Mightflay
-Reinforced Tower Shield-->>Titucius' Span
+Reinforced Tower Shield-->>Titucius' Span;;Titucus Span
 Burnished Spiked Shield-->>Glitterdisc
 Topaz Flask-->>Vessel of Vinktar
 Harlequin Mask-->>Mind of the Council

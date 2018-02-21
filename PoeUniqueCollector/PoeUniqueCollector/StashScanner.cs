@@ -1,6 +1,9 @@
-﻿using PoeUniqueCollector.QuickType;
+﻿using PoeUniqueCollector.ItemProcessors;
+using PoeUniqueCollector.QuickType;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.Composition;
+using System.ComponentModel.Composition.Hosting;
 using System.Linq;
 using System.Text;
 using System.Threading;
@@ -10,21 +13,30 @@ namespace PoeUniqueCollector
 {
     public class StashScanner
     {
+        [ImportMany(typeof(IItemProcessorModule))]
+        public List<IItemProcessorModule> ItemProcessors { get; set; }
         public PoEObject PoEObject { get; set; }
-        public List<IScannerConfig> Configs { get; set; } = new List<IScannerConfig>();
 
         private APIRequester dataSource;        
 
         public StashScanner(APIRequester dataSource)
         {
             this.dataSource = dataSource;
+            this.ComposeScanModules();
+        }
+
+        private void ComposeScanModules()
+        {
+            var asmCata = new AssemblyCatalog(GetType().Assembly);
+            var container = new CompositionContainer(asmCata);
+            container.ComposeParts(this);
         }
 
         public PoEObject ParseToObject(string response)
         {
             this.PoEObject = PoEObject.FromJson(response);
             this.dataSource.NextID = this.PoEObject.NextChangeId;
-            Console.WriteLine("Response parsing complete");
+            Console.WriteLine("(INFO) Response parsing complete");
             return this.PoEObject;
         }
 
@@ -37,27 +49,31 @@ namespace PoeUniqueCollector
             //    Thread.Sleep(100);
             //}
 
+            var count = 0;
+
             foreach (var stash in this.PoEObject.Stashes)
             {
                 foreach (var item in stash.Items)
                 {
-                    foreach (var config in this.Configs)
+                    count++;
+
+                    foreach (var processor in this.ItemProcessors)
                     {
-                        if (config.ScanItem(item))
+                        if (processor.ScanItem(item))
                         {
-                            config.ProcessItem(item);
+                            processor.ProcessItem(item);
                         }
                     }
                 }
             }
 
             this.SaveToFile();
-            Console.WriteLine("Item scanning complete");
+            Console.WriteLine($"(INFO) Item scanning complete: {count} items scanned.");
         }
 
         private void SaveToFile()
         {
-            this.Configs.ForEach(x => x.SaveToFile());
+            this.ItemProcessors.ForEach(x => x.SaveToFile());
         }
     }
 }

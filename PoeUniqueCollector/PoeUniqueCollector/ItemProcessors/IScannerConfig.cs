@@ -5,16 +5,17 @@ using System.Text;
 using System.Threading.Tasks;
 using PoeUniqueCollector.QuickType;
 
-namespace PoeUniqueCollector
+namespace PoeUniqueCollector.ItemProcessors
 {
-    public interface IScannerConfig
+    public interface IItemProcessorModule
     {
         string DataFilePath { get; set; }
         int CollectionSize { get; }
 
-        void SaveToFile();
-        void LoadFromFile();
         void ProcessItem(Item item);
         bool ScanItem(Item item);
+        void SaveToFile();
+        void LoadFromFile();
+        void CreateFormattedFile();
     }
 }

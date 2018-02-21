@@ -4,14 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using PoeUniqueCollector.QuickType;
+using System.ComponentModel.Composition;
 
-namespace PoeUniqueCollector
+namespace PoeUniqueCollector.ItemProcessors
 {
-    public class SC_UniqueCollector : IScannerConfig
+    [Export(typeof(IItemProcessorModule))]
+    public class SC_UniqueCollector : IItemProcessorModule
     {
         public Dictionary<string, List<string>> Collection { get; set; } = new Dictionary<string, List<string>>();
         public string DataFilePath { get; set; } = "..\\..\\UniqueCollection.txt";
-        public int CollectionSize {
+
+        public int CollectionSize
+        {
             get
             {
                 var res = 0;
@@ -21,7 +25,9 @@ namespace PoeUniqueCollector
                 }
                 return res;
             }
-            private set => throw new NotImplementedException(); }
+
+            private set => throw new NotImplementedException();
+        }
 
         public SC_UniqueCollector()
         {
@@ -116,6 +122,21 @@ namespace PoeUniqueCollector
             }
 
             SaveUnique(item.TypeLine, item.Name);
+        }
+
+        public void CreateFormattedFile()
+        {
+            var content = new List<string>();
+
+            foreach (var entry in this.Collection)
+            {
+                var line = entry.Key;
+                line += "-->>";
+                line += String.Join(";;", entry.Value);
+                content.Add(line);
+            }
+
+            System.IO.File.WriteAllLines(this.DataFilePath, content.ToArray());
         }
     }
 }

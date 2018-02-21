@@ -16,6 +16,7 @@ namespace PoeUniqueCollector
 
             set
             {
+                if (value == nextID) Console.WriteLine("<-- INFORMATION: NextID did not change! -->");
                 nextID = value;
                 this.isUpToDate = true;
                 this.SaveNextIDToFile(value);
@@ -35,8 +36,6 @@ namespace PoeUniqueCollector
         public APIRequester(int uselessRequestTolerance)
         {
             this.scanner = new StashScanner(this);
-            this.scanner.Configs.Add(new SC_UniqueCollector());
-            this.scanner.Configs.Add(new SC_ProphecyCollector());
             this.UselessRequestTolerance = uselessRequestTolerance;
             this.ReadNextIDFromFile();
         }
@@ -64,11 +63,11 @@ namespace PoeUniqueCollector
         {
             while (!this.openRequest.IsCompleted)
             {
-                Console.WriteLine(this.openRequest.Status);
+                Console.WriteLine("(INFO) " + this.openRequest.Status);
                 Thread.Sleep(1000);
             }
 
-            Console.WriteLine("Response received!");
+            Console.WriteLine("(INFO) Response received!");
             this.isUpToDate = false;
         }
 
@@ -81,9 +80,9 @@ namespace PoeUniqueCollector
                 this.SendRequest();
             }
 
-            var oldCounts = this.scanner.Configs.Select(x => x.CollectionSize).ToArray();
+            var oldCounts = this.scanner.ItemProcessors.Select(x => x.CollectionSize).ToArray();
             this.scanner.ScanAllItems();
-            if (oldCounts.SequenceEqual(this.scanner.Configs.Select(x => x.CollectionSize).ToArray()))
+            if (oldCounts.SequenceEqual(this.scanner.ItemProcessors.Select(x => x.CollectionSize).ToArray()))
             {
                 this.uselessRequestCount++;
                 Console.Write("Useless request. Counter increased to " + this.uselessRequestCount);

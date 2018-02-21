@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using PoeUniqueCollector.QuickType;
+using System.ComponentModel.Composition;
 
-namespace PoeUniqueCollector
+namespace PoeUniqueCollector.ItemProcessors
 {
-    public class SC_ProphecyCollector : IScannerConfig
+    [Export(typeof(IItemProcessorModule))]
+    public class SC_ProphecyCollector : IItemProcessorModule
     {
         public List<string> Collection { get; set; } = new List<string>();
         public string DataFilePath { get; set; } = "..\\..\\ProphecyList.txt";
@@ -68,6 +70,25 @@ namespace PoeUniqueCollector
                 this.Collection.Add(name);
                 Console.WriteLine($"New Prophecy: {name} ({this.Collection.Count})");
             }
+        }
+
+        public void CreateFormattedFile()
+        {
+            throw new NotImplementedException();
+
+            //string[] list = { };
+            //this.Collection.CopyTo(list);
+
+            //var content = new List<string>();
+
+            //foreach (var prophecy in this.Collection)
+            //{
+            //    content.Add(prophecy + "Prophecy,");
+            //}
+
+
+
+            //System.IO.File.WriteAllLines(this.DataFilePath + "_Formatted.txt", content.ToArray());
         }
     }
 }
