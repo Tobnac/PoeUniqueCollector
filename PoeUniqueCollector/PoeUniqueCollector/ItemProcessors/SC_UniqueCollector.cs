@@ -13,6 +13,7 @@ namespace PoeUniqueCollector.ItemProcessors
     {
         public Dictionary<string, List<string>> Collection { get; set; } = new Dictionary<string, List<string>>();
         public string DataFilePath { get; set; } = "..\\..\\UniqueCollection.txt";
+        public bool DoScanStash { get; set; }
 
         public int CollectionSize
         {
@@ -137,6 +138,11 @@ namespace PoeUniqueCollector.ItemProcessors
             }
 
             System.IO.File.WriteAllLines(this.DataFilePath, content.ToArray());
+        }
+
+        public void ScanStashInfo(Stash stash)
+        {
+            this.DoScanStash = true;
         }
     }
 }

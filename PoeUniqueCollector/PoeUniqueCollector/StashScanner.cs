@@ -53,11 +53,26 @@ namespace PoeUniqueCollector
 
             foreach (var stash in this.PoEObject.Stashes)
             {
+                foreach (var proc in this.ItemProcessors)
+                {
+                    proc.ScanStashInfo(stash);
+                }
+
+                // skip stash of no one wants it
+                if (this.ItemProcessors.All(x => x.DoScanStash == false))
+                {
+                    continue;
+                }
+
+                // get all processors that are interested in this stash
+                var interestedProcessors = this.ItemProcessors.Where(x => x.DoScanStash);
+
+                // iterate items
                 foreach (var item in stash.Items)
                 {
                     count++;
 
-                    foreach (var processor in this.ItemProcessors)
+                    foreach (var processor in interestedProcessors)
                     {
                         if (processor.ScanItem(item))
                         {

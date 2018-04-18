@@ -13,6 +13,7 @@ namespace PoeUniqueCollector.ItemProcessors
     {
         public string DataFilePath { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public int CollectionSize { get { return knownTexts.Count; } }
+        public bool DoScanStash { get; set; }
 
         private HashSet<string> knownTexts = new HashSet<string>();
 
@@ -52,6 +53,11 @@ namespace PoeUniqueCollector.ItemProcessors
         public void SaveToFile()
         {
             //
+        }
+
+        public void ScanStashInfo(Stash stash)
+        {
+            this.DoScanStash = true;
         }
     }
 }

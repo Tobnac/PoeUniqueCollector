@@ -24,14 +24,12 @@ namespace PoeUniqueCollector
         }
 
         public int UselessRequestTolerance { get; set; }
-
         private string nextID = "";
         private string nextIDFilePath = "..\\..\\NextChangeID.txt";
         private bool isUpToDate = true;
         private Task<string> openRequest;
         private StashScanner scanner;
-        private int uselessRequestCount = 0;
-        
+        private int uselessRequestCount = 0;        
 
         public APIRequester(int uselessRequestTolerance)
         {
@@ -125,8 +123,6 @@ namespace PoeUniqueCollector
             string[] myContent = { nextID };
             System.IO.File.WriteAllLines(this.nextIDFilePath, myContent);
         }
-
-
 
         private async Task<string> CreateRequestAsync()
         {

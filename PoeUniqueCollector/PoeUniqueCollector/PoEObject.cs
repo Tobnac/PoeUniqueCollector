@@ -164,6 +164,14 @@ namespace PoeUniqueCollector
             public string ArtFilename { get; set; }
         }
 
+        public partial class SimpleItem
+        { 
+            public string Id { get; set; }
+            public string TypeLine { get; set; }
+            public string PriceCurrency { get; set; }
+            public double PriceAmount { get; set; }
+        }
+
         public partial class AdditionalProperty
         {
             [JsonProperty("name")]

@@ -9,12 +9,13 @@ using System.Text.RegularExpressions;
 
 namespace PoeUniqueCollector.ItemProcessors
 {
-    [Export(typeof(IItemProcessorModule))]
+    //[Export(typeof(IItemProcessorModule))]
     public partial class PriceProcessor : IItemProcessorModule
     {
         public Dictionary<string, string> CurrencyTranslation { get; set; } = new Dictionary<string, string>();
         public Dictionary<string, List<double>> PriceLists { get; set; } = new Dictionary<string, List<double>>();
         public string DataFilePath { get; set; } = "..\\..\\CurrencyPrices.txt";
+        public bool DoScanStash { get; set; }
         public int CollectionSize
         {
             get
@@ -26,7 +27,7 @@ namespace PoeUniqueCollector.ItemProcessors
                 }
                 return res;
             }
-        }
+        }       
 
         private Regex regExp = new Regex(@"~(?:(?:price )|(?:b\/o ))(.?\d+(?:(?:.\d+)|(?:\/\d+))?) (\w+)");
 
@@ -40,6 +41,15 @@ namespace PoeUniqueCollector.ItemProcessors
             var currency = item.TypeLine;
 
             if (amount <= 0) return;
+
+            var tempItem = new SimpleItem
+            {
+                Id = item.Id,
+                PriceAmount = amount,
+                PriceCurrency = priceCurrency,
+                TypeLine = currency
+            };
+            this.stashIDs[this.currentStashID].Add(item.Id, tempItem);
 
             //Console.WriteLine($"Selling {currency} for {amount} {priceCurrency}!");
             this.EvaluatePrice(this.TranslateCurrencyToShort(currency), priceCurrency, amount);
@@ -156,8 +166,6 @@ namespace PoeUniqueCollector.ItemProcessors
                         avg = list.Average();
                     }
                 }
-                
-
             }
         }
 
@@ -175,6 +183,7 @@ namespace PoeUniqueCollector.ItemProcessors
             var res = value * valParticipation + average * avgParticipation;
 
             //Console.WriteLine($"Normalized {value} to {res}. (avg is {average}");
+            if (res == 0) Console.WriteLine("FAIL!");
             return res;
         }
     }

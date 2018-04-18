@@ -11,11 +11,13 @@ namespace PoeUniqueCollector.ItemProcessors
     {
         string DataFilePath { get; set; }
         int CollectionSize { get; }
+        bool DoScanStash { get; set; }
 
         void ProcessItem(Item item);
         bool ScanItem(Item item);
         void SaveToFile();
         void LoadFromFile();
         void CreateFormattedFile();
+        void ScanStashInfo(Stash stash);
     }
 }

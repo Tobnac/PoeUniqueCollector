@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PoeUniqueCollector.ItemProcessors
 {
-    public partial class PriceProcessor
+    public partial class PriceProcessor : IItemProcessorModule
     {
         public PriceProcessor()
         {
@@ -25,6 +25,7 @@ namespace PoeUniqueCollector.ItemProcessors
             this.CurrencyTranslation.Add("Orb of Fusing", "fuse");
             this.CurrencyTranslation.Add("Divine Orb", "divine");
             this.CurrencyTranslation.Add("Silver Coin", "silver");
+            this.CurrencyTranslation.Add("Regal Orb", "regal");
             this.LoadFromFile();
         }
 
@@ -145,6 +146,7 @@ namespace PoeUniqueCollector.ItemProcessors
             InitCurr("gcp", 1.5);
             InitCurr("fuse", 1 / 2.5);
             InitCurr("divine", 7);
+            InitCurr("regal", 2);
             InitCurr("Orb of Augmentation", 0.05);
 
             void InitCurr(string cur, double value)

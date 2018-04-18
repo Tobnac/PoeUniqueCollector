@@ -38,6 +38,7 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -50,7 +51,9 @@
     <Compile Include="Helper.cs" />
     <Compile Include="ItemProcessors\IScannerConfig.cs" />
     <Compile Include="ItemProcessors\FlavourTextPrinter.cs" />
+    <Compile Include="ItemProcessors\ItemSaver.cs" />
     <Compile Include="ItemProcessors\PriceProcessor.cs" />
+    <Compile Include="ItemProcessors\PriceProcessorStashes.cs" />
     <Compile Include="ItemProcessors\PriceProcessorUtility.cs" />
     <Compile Include="PoEObject.cs" />
     <Compile Include="Program.cs" />

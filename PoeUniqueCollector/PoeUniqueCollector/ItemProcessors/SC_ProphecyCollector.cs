@@ -14,6 +14,7 @@ namespace PoeUniqueCollector.ItemProcessors
         public List<string> Collection { get; set; } = new List<string>();
         public string DataFilePath { get; set; } = "..\\..\\ProphecyList.txt";
         public int CollectionSize { get { return this.Collection.Count; } private set => throw new NotImplementedException(); }
+        public bool DoScanStash { get; set; }
 
         public SC_ProphecyCollector()
         {
@@ -89,6 +90,11 @@ namespace PoeUniqueCollector.ItemProcessors
 
 
             //System.IO.File.WriteAllLines(this.DataFilePath + "_Formatted.txt", content.ToArray());
+        }
+
+        public void ScanStashInfo(Stash stash)
+        {
+            this.DoScanStash = true;
         }
     }
 }

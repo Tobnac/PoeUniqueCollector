@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace PoeUniqueCollector
@@ -10,11 +11,16 @@ namespace PoeUniqueCollector
     {
         static void Main(string[] args)
         {
-            var api = new APIRequester(5);
-            api.Run();
-            
-            Console.WriteLine("Finished");
-            Console.ReadLine();
+            var api = new APIRequester(15);
+            var thread = new Thread(new ThreadStart(api.Run));
+
+            thread.Start();
+
+            string input;
+            while((input = Console.ReadLine()) != "exit")
+            {
+                if (input == "compare") Helper.CompareDataLists();
+            }
         }
     }
 }
