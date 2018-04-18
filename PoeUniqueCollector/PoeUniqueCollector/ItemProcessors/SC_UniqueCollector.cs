@@ -101,7 +101,25 @@ namespace PoeUniqueCollector.ItemProcessors
             // no item name --> not identified
             if (item.Name == "" && item.Identified == false)
             {
+                if (this.Collection.ContainsKey(item.TypeLine))
+                {
+                    return false;
+                }
+
+                //Console.WriteLine("Ignoring new unique base because it's unID'd: " + item.TypeLine);
                 return false; // still save that the baseType HAS any uniques?
+            }
+
+            // catch unique beasts
+            if (item.Name == "" && item.Identified && item.DescrText == "Right-click to add this to your bestiary." && item.Corrupted == null && item.FlavourText == null && item.H == 1 && item.W == 1)
+            {
+                Console.WriteLine("Ignoring beast: " + item.TypeLine);
+                return false;
+            }
+
+            if (item.Name == "" || !item.Name.Contains("<<set:MS>><<set:M>><<set:S>>"))
+            {
+                throw new Exception("unexpected unique");
             }
 
             return true;
