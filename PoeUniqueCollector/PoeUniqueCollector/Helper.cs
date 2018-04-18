@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,10 +11,14 @@ namespace PoeUniqueCollector
     {
         public static void CompareDataLists()
         {
-            var fbFilePath = "..\\..\\BasetypeStorage.csv";
+            //var fbFilePath = "..\\..\\BasetypeStorage.csv";
+            var fbLocalPath = "C:\\Users\\Tobnac\\WebstormProjects\\fb\\datafiles\\other\\BasetypeStorage.csv";
             var myFilePath = "..\\..\\UniqueCollection.txt";
+            //var fbOnlineLink = "http://filterblade.xyz/datafiles/other/BasetypeStorage.csv";
 
-            var fbContent = System.IO.File.ReadAllLines(fbFilePath);
+            var fbContent = System.IO.File.ReadAllLines(fbLocalPath);
+            //var webClient = new WebClient();
+            //fbContent = webClient.DownloadString(fbOnlineLink).Split("\n");
             var myContent = System.IO.File.ReadAllLines(myFilePath);
 
             var myBTL = new List<string>();
