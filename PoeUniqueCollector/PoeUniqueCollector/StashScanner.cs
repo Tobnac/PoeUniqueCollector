@@ -17,9 +17,9 @@ namespace PoeUniqueCollector
         public List<IItemProcessorModule> ItemProcessors { get; set; }
         public PoEObject PoEObject { get; set; }
 
-        private APIRequester dataSource;        
+        private ApiRequester dataSource;
 
-        public StashScanner(APIRequester dataSource)
+        public StashScanner(ApiRequester dataSource)
         {
             this.dataSource = dataSource;
             this.ComposeScanModules();

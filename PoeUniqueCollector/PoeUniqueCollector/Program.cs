@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 
 namespace PoeUniqueCollector
 {
@@ -11,8 +7,8 @@ namespace PoeUniqueCollector
     {
         static void Main(string[] args)
         {
-            var api = new APIRequester(15);
-            var thread = new Thread(new ThreadStart(api.Run));
+            var api = new ApiRequester(30);
+            var thread = new Thread(api.Run);
             
             thread.Start();
 

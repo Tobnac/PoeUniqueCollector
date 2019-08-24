@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace PoeUniqueCollector
 {
-    public class APIRequester
+    public class ApiRequester
     {
         public string NextID
         {
-            get { return nextID; }
+            get => nextID;
 
             set
             {
@@ -29,9 +29,9 @@ namespace PoeUniqueCollector
         private bool isUpToDate = true;
         private Task<string> openRequest;
         private StashScanner scanner;
-        private int uselessRequestCount = 0;        
+        private int uselessRequestCount;
 
-        public APIRequester(int uselessRequestTolerance)
+        public ApiRequester(int uselessRequestTolerance)
         {
             this.scanner = new StashScanner(this);
             this.UselessRequestTolerance = uselessRequestTolerance;
@@ -53,8 +53,7 @@ namespace PoeUniqueCollector
                 return;
             }
 
-            var request = CreateRequestAsync();
-            this.openRequest = request;
+            this.openRequest = CreateRequestAsync();
         }
 
         private void AwaitResponse()
@@ -62,7 +61,7 @@ namespace PoeUniqueCollector
             while (!this.openRequest.IsCompleted)
             {
                 Console.WriteLine("(INFO) " + this.openRequest.Status);
-                Thread.Sleep(1000);
+                this.openRequest.Wait();
             }
 
             Console.WriteLine("(INFO) Response received!");

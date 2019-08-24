@@ -1,21 +1,21 @@
-Cobalt Jewel-->>Hazardous Research;;Eldritch Knowledge;;Frozen Trail;;Rolling Flames;;Malicious Intent;;The Long Winter;;Conqueror's Potency;;Violent Dead;;Healthy Mind;;From Dust;;Grand Spectrum;;Spreading Rot;;Brittle Barrier;;Winter's Bounty;;Brute Force Solution;;Fortified Legion;;First Snow;;Spirited Response;;Primordial Harmony;;Fertile Mind;;Unending Hunger;;Survival Secrets;;Fevered Mind;;Clear Mind;;Dead Reckoning;;Assassin's Haste;;Inevitability;;The Blue Dream;;Soul's Wick;;Energy From Within;;Anatomical Knowledge;;Powerlessness;;To Dust;;Unstable Payload;;Reckless Defence;;Vaal Sentencing;;Mutated Growth;;Corrupted Energy;;The Blue Nightmare;;Emperor's Wit
-Jade Amulet-->>Karui Ward;;The Pandemonius;;The Halcyon;;Rashkaldor's Patience;;Karui Charge
+Cobalt Jewel-->>Hazardous Research;;Eldritch Knowledge;;Frozen Trail;;Rolling Flames;;Malicious Intent;;The Long Winter;;Conqueror's Potency;;Violent Dead;;Healthy Mind;;From Dust;;Grand Spectrum;;Spreading Rot;;Brittle Barrier;;Winter's Bounty;;Brute Force Solution;;Fortified Legion;;First Snow;;Spirited Response;;Primordial Harmony;;Fertile Mind;;Unending Hunger;;Survival Secrets;;Fevered Mind;;Clear Mind;;Dead Reckoning;;Assassin's Haste;;Inevitability;;The Blue Dream;;Soul's Wick;;Energy From Within;;Anatomical Knowledge;;Powerlessness;;To Dust;;Unstable Payload;;Reckless Defence;;Vaal Sentencing;;Mutated Growth;;Corrupted Energy;;The Blue Nightmare;;Emperor's Wit;;Tempered Mind;;Combat Focus
+Jade Amulet-->>Karui Ward;;The Pandemonius;;The Halcyon;;Rashkaldor's Patience;;Karui Charge;;Hyrri's Truth
 Rustic Sash-->>Prismweave;;Feastbind;;Faminebind;;The Retch
 Dunes Map-->>Pillars of Arun
 Atoll Map-->>Maelström of Chaos
 Cloth Belt-->>Perandus Blazon;;Sunblast;;Soulthirst;;Soul Tether;;The Flow Untethered
-Crimson Jewel-->>Survival Skills;;Inspired Learning;;Brawn;;Overwhelming Odds;;Weight of the Empire;;Winter Burial;;Shattered Chains;;Efficient Training;;Rapid Expansion;;Conqueror's Efficiency;;Fireborn;;Grand Spectrum;;Coated Shrapnel;;Wildfire;;Rain of Splinters;;Warlord's Reach;;The Vigil;;Fragile Bloom;;Blood Sacrifice;;Spire of Stone;;Martial Artistry;;Energised Armour;;Might in All Forms;;Inertia;;The Red Dream;;Fragility;;Combustibles;;Primordial Might;;Atziri's Reign;;Izaro's Turmoil;;Ancient Waystones;;Mantra of Flames;;The Red Nightmare;;Emperor's Might;;Might of the Meek
+Crimson Jewel-->>Survival Skills;;Inspired Learning;;Brawn;;Overwhelming Odds;;Weight of the Empire;;Winter Burial;;Shattered Chains;;Efficient Training;;Rapid Expansion;;Conqueror's Efficiency;;Fireborn;;Grand Spectrum;;Coated Shrapnel;;Wildfire;;Rain of Splinters;;Warlord's Reach;;The Vigil;;Fragile Bloom;;Blood Sacrifice;;Spire of Stone;;Martial Artistry;;Energised Armour;;Might in All Forms;;Inertia;;The Red Dream;;Fragility;;Combustibles;;Primordial Might;;Atziri's Reign;;Izaro's Turmoil;;Ancient Waystones;;Mantra of Flames;;The Red Nightmare;;Emperor's Might;;Might of the Meek;;Combat Focus;;Tempered Flesh;;Transcendent Flesh
 Fire Arrow Quiver-->>Blackgleam;;The Signal Fire
-Two-Stone Ring-->>Berek's Pass;;Berek's Grip;;Call of the Brotherhood;;Rigwald's Crest;;Berek's Respite
+Two-Stone Ring-->>Berek's Pass;;Berek's Grip;;Call of the Brotherhood;;Rigwald's Crest;;Berek's Respite;;Precursor's Emblem
 Turquoise Amulet-->>Ungil's Harmony;;Maligaro's Cruelty;;Warped Timepiece;;Victario's Acuity
 Aventail Helmet-->>Mindspiral
 Granite Flask-->>Rumi's Concoction;;Lion's Roar
 Simple Robe-->>Tabula Rasa;;Thousand Ribbons;;Skin of the Loyal;;Skin of the Lords
 Silk Gloves-->>Asenath's Gentle Touch
 Plate Vest-->>Bramblejack;;Wall of Brambles
-Sapphire Ring-->>Dream Fragments;;Pyre;;Tasalio's Sign;;Snakepit
+Sapphire Ring-->>Dream Fragments;;Pyre;;Tasalio's Sign;;Snakepit;;Precursor's Emblem;;Uzaza's Meadow;;Uzaza's Mountain;;Uzaza's Valley
 Ezomyte Burgonet-->>Abyssus
-Heavy Belt-->>Meginord's Girdle;;Doryani's Invitation;;Belt of the Deceiver;;Bisco's Leash;;Dyadian Dawn
+Heavy Belt-->>Meginord's Girdle;;Doryani's Invitation;;Belt of the Deceiver;;Bisco's Leash;;Dyadian Dawn;;String of Servitude
 Jade Hatchet-->>The Screaming Eagle;;The Gryphon
 Etched Greatsword-->>Edge of Madness
 Leather Cap-->>Goldrim
@@ -36,21 +36,21 @@ Ursine Pelt-->>Rat's Nest
 Gilded Sallet-->>Deidbellow;;Deidbell
 Nightmare Bascinet-->>Devoto's Devotion;;The Bringer of Rain
 Sinner Tricorne-->>Alpha's Howl
-Judgement Staff-->>Hegemony's Era;;Pledge of Hands
+Judgement Staff-->>Hegemony's Era;;Pledge of Hands;;The Grey Spire
 Great Crown-->>Geofri's Crest;;Lightpoacher
-Viridian Jewel-->>Lioneye's Fall;;Volley Fire;;Spirit Guards;;Hair Trigger;;Fight for Survival;;Apparitions;;Steel Spirit;;Growing Agony;;Primordial Eminence;;Might and Influence;;Omen on the Winds;;Collateral Damage;;Weight of Sin;;Pacifism;;Cheap Construction;;Grand Spectrum;;Intuitive Leap;;Pugilist;;Ring of Blades;;Static Electricity;;Sacrificial Harvest;;The Golden Rule;;Sudden Ignition;;Hotfooted;;Fluid Motion;;Careful Planning;;Conqueror's Longevity;;Poacher's Aim;;Self-Flagellation;;Hidden Potential;;Survival Instincts;;Cold Steel;;Chill of Corruption;;Pitch Darkness;;Pure Talent;;Hungry Abyss;;The Green Dream;;Emperor's Cunning;;The Green Nightmare
-Leather Belt-->>Cyclopean Coil;;Wurm's Molt;;Immortal Flesh;;Headhunter;;Umbilicus Immortalis;;Gluttony
+Viridian Jewel-->>Lioneye's Fall;;Volley Fire;;Spirit Guards;;Hair Trigger;;Fight for Survival;;Apparitions;;Steel Spirit;;Growing Agony;;Primordial Eminence;;Might and Influence;;Omen on the Winds;;Collateral Damage;;Weight of Sin;;Pacifism;;Cheap Construction;;Grand Spectrum;;Intuitive Leap;;Pugilist;;Ring of Blades;;Static Electricity;;Sacrificial Harvest;;The Golden Rule;;Sudden Ignition;;Hotfooted;;Fluid Motion;;Careful Planning;;Conqueror's Longevity;;Poacher's Aim;;Self-Flagellation;;Hidden Potential;;Survival Instincts;;Cold Steel;;Chill of Corruption;;Pitch Darkness;;Pure Talent;;Hungry Abyss;;The Green Dream;;Emperor's Cunning;;The Green Nightmare;;Divide and Conquer;;Tempered Spirit;;Unnatural Instinct;;Combat Focus;;Transcendent Spirit
+Leather Belt-->>Cyclopean Coil;;Wurm's Molt;;Immortal Flesh;;Headhunter;;Umbilicus Immortalis;;Gluttony;;Hyperboreus
 Stygian Vise-->>Darkness Enthroned
-Unset Ring-->>Malachai's Artifice;;The Pariah;;Essence Worm;;Mutewind Seal;;The Hungry Loop;;Brinerot Mark;;Voideye;;Redblade Band;;Angler's Plait
+Unset Ring-->>Malachai's Artifice;;The Pariah;;Essence Worm;;Mutewind Seal;;The Hungry Loop;;Brinerot Mark;;Voideye;;Redblade Band;;Angler's Plait;;Mark of Submission;;Vivinsect
 Throat Stabber-->>The Wasp Nest
 War Hammer-->>Brightbeak;;Lavianga's Wisdom
 Imperial Claw-->>Hand of Wisdom and Action;;Touch of Anguish;;Izaro's Dilemma
-Onyx Amulet-->>Eye of Chayula;;Impresence;;Presence of Chayula;;Carnage Heart;;Astramentis;;Yoke of Suffering;;Hinekora's Sight
-Vaal Spirit Shield-->>Esh's Visage
+Onyx Amulet-->>Eye of Chayula;;Impresence;;Presence of Chayula;;Carnage Heart;;Astramentis;;Yoke of Suffering;;Hinekora's Sight;;Solstice Vigil;;Aul's Uprising
+Vaal Spirit Shield-->>Esh's Visage;;Apep's Supremacy
 Iron Ring-->>Le Heup of All;;The Warden's Brand;;Blackheart;;Voidheart
 Corsair Sword-->>Ichimonji
 Glorious Plate-->>Kaom's Heart
-Crusader Plate-->>Lioneye's Vision;;Iron Heart
+Crusader Plate-->>Lioneye's Vision;;Iron Heart;;The Iron Fortress
 Wool Gloves-->>Sadima's Touch
 Gold Ring-->>Ventor's Gamble;;Andvarius
 Imperial Bow-->>Lioneye's Glare;;Windripper
@@ -58,10 +58,10 @@ Ruby Flask-->>Dying Sun;;Coruscating Elixir
 Ancient Gauntlets-->>Winds of Change
 Stealth Boots-->>Sin Trek;;Garukhan's Flight
 Demon Dagger-->>Vulconus
-Paua Amulet-->>Sidhebreath;;Atziri's Foible
+Paua Amulet-->>Sidhebreath;;Atziri's Foible;;Zerphi's Heart;;Sacrificial Heart
 Elegant Sword-->>Lakishu's Blade;;The Goddess Scorned
 Crude Bow-->>Silverbranch;;Silverbough
-Sulphur Flask-->>The Sorrow of the Divine;;The Overflowing Chalice
+Sulphur Flask-->>The Sorrow of the Divine;;The Overflowing Chalice;;Bottled Faith
 Bone Bow-->>Xoph's Inception
 Dragonscale Boots-->>Darkray Vectors
 Vanguard Belt-->>Perseverance
@@ -70,7 +70,7 @@ Nubuck Boots-->>Goldwyrm
 Carved Wand-->>The Poet's Pen;;Storm Prison
 Slink Boots-->>Atziri's Step;;Farrul's Chase
 Archon Kite Shield-->>Invictus Solaris;;Prism Guardian;;The Unshattered Will;;Broken Faith
-Gold Amulet-->>Bisco's Collar;;The Ignomon;;The Ascetic;;Winterheart;;Demigod's Presence;;The Effigon
+Gold Amulet-->>Bisco's Collar;;The Ignomon;;The Ascetic;;Winterheart;;Demigod's Presence;;The Effigon;;Perquil's Toe
 Sadist Garb-->>Inpulsa's Broken Heart;;Tinkerskin
 Ornate Mace-->>Frostbreath
 Sabre-->>The Princess
@@ -124,14 +124,14 @@ Moonstone Ring-->>Timeclasp;;Heartbound Loop;;Shavronne's Revelation;;Valyrium;;
 Goathide Gloves-->>Hrimsorrow;;Hrimburn
 Soldier Helmet-->>Honourhome
 Cleaver-->>Dreadarc;;Dreadsurge
-Iron Circlet-->>Asenath's Mark;;Asenath's Chant
+Iron Circlet-->>Asenath's Mark;;Asenath's Chant;;Wreath of Phrecia
 Underground River Map-->>Caer Blaidd, Wolfpack's Den
 Despot Axe-->>Debeon's Dirge;;Kingmaker
 Silk Slippers-->>Bones of Ullr
 Mesh Boots-->>Wake of Destruction
 Dream Mace-->>Flesh-Eater
 Gavel-->>Cameria's Maul;;Mjölner;;Cameria's Avarice
-Topaz Ring-->>Kikazaru;;Valako's Sign
+Topaz Ring-->>Kikazaru;;Valako's Sign;;Putembo's Valley;;Putembo's Meadow;;Precursor's Emblem
 Short Bow-->>Quill Rain
 Military Staff-->>Tremor Rod
 Visored Sallet-->>The Peregrine
@@ -163,16 +163,16 @@ Harbinger Bow-->>Nuro's Harp;;Slivertongue
 Primordial Staff-->>Femurs of the Saints
 Crusader Chainmail-->>Ambu's Charge
 Destiny Leather-->>Queen of the Forest
-Prismatic Ring-->>Lori's Lantern;;Thief's Torment;;The Taming
+Prismatic Ring-->>Lori's Lantern;;Thief's Torment;;The Taming;;Precursor's Emblem
 Reaver Sword-->>The Dancing Dervish;;Hiltless;;The Dancing Duo
 Velvet Gloves-->>Doedre's Tenure;;Doedre's Malevolence
 Prophet Crown-->>Speaker's Wreath;;The Broken Crown;;The Brine Crown
-Dragonscale Gauntlets-->>Surgebinders
+Dragonscale Gauntlets-->>Surgebinders;;Worldcarver
 Titan Gauntlets-->>Veruso's Battering Rams;;Craiceann's Pincers
 Legion Sword-->>Hyaon's Fury;;The Rippling Thoughts
 Eternal Sword-->>Dreamfeather;;Grelwood Shank;;Beltimber Blade;;The Goddess Unleashed
 Demon's Horn-->>Obliteration
-Quartz Flask-->>Forbidden Taste
+Quartz Flask-->>Forbidden Taste;;Soul Catcher;;Soul Ripper
 Royal Skean-->>Heartbreaker
 Plated Greaves-->>Stormcharger
 Leather Hood-->>Heatshiver;;Frostferno
@@ -184,9 +184,9 @@ Goliath Gauntlets-->>Empire's Grasp
 Crystal Belt-->>Auxium
 Gladius-->>Scaeva
 Strapped Boots-->>Nomic's Storm
-Coral Amulet-->>Araku Tiki;;Ngamahu Tiki;;Bloodgrip
+Coral Amulet-->>Araku Tiki;;Ngamahu Tiki;;Bloodgrip;;Tavukai;;The Primordial Chain
 Great Helmet-->>Veil of the Night
-Tarnished Spirit Shield-->>Matua Tupuna;;Brinerot Flag
+Tarnished Spirit Shield-->>Matua Tupuna;;Brinerot Flag;;Whakatutuki o Matua
 Desert Brigandine-->>Lightning Coil
 Conquest Chainmail-->>Kingsguard
 Gut Ripper-->>Advancing Fortress;;Ornament of the East
@@ -202,11 +202,11 @@ Tiger Sword-->>Terminus Est
 Whalebone Rapier-->>The Goddess Bound;;Tipua Kaikohuru
 Soldier Gloves-->>Southbound;;Saqawal's Winds
 Decimation Bow-->>Infractem
-Strapped Mitts-->>Facebreaker
+Strapped Mitts-->>Facebreaker;;Architect's Hand
 Elder Sword-->>Innsbury Edge
 Compound Spiked Shield-->>Maligaro's Lens
-Necromancer Circlet-->>Chitus' Apex;;Fenumus' Toxins
-Ezomyte Staff-->>Cane of Unravelling
+Necromancer Circlet-->>Chitus' Apex;;Fenumus' Toxins;;The Devouring Diadem
+Ezomyte Staff-->>Cane of Unravelling;;Soulwrest
 Infernal Sword-->>Oro's Sacrifice;;Starforge;;Voidforge
 Citrine Amulet-->>Daresso's Salute;;Eye of Innocence
 Riveted Boots-->>Ralakesh's Impatience
@@ -215,12 +215,12 @@ Black Maw Talisman-->>Night's Hold
 Spidersilk Robe-->>The Covenant;;Soul Mantle
 Conjurer Gloves-->>Voidbringer;;Hellbringer
 Decorative Axe-->>Relentless Fury
-Vaal Regalia-->>The Beast Fur Shawl
+Vaal Regalia-->>The Beast Fur Shawl;;The Queen's Hunger
 Lunaris Circlet-->>Doedre's Scorn
 Harmonic Spirit Shield-->>Malachai's Loop
 Assassin's Garb-->>Cospri's Will
 Velvet Slippers-->>Wondertrap;;Greedtrap
-Ruby Ring-->>Mokou's Embrace;;Emberwake;;Ngamahu's Sign
+Ruby Ring-->>Mokou's Embrace;;Emberwake;;Ngamahu's Sign;;Ahkeli's Mountain;;Ahkeli's Valley;;Precursor's Emblem
 Sundering Axe-->>Wings of Entropy
 Destroyer Regalia-->>The Coming Calamity
 Imperial Staff-->>Agnerod North;;Agnerod West;;Agnerod South;;Agnerod East;;The Enmity Divine
@@ -241,16 +241,16 @@ Enameled Buckler-->>Mutewind Pennant
 Bone Circlet-->>Wraithlord
 Bronzescale Gauntlets-->>Vaal Caress;;Slitherpinch
 Vine Circlet-->>Martyr's Crown;;Crown of Thorns
-Mind Cage-->>Rime Gaze;;Scold's Bridle
+Mind Cage-->>Rime Gaze;;Scold's Bridle;;Hale Negator
 Carnal Mitts-->>The Embalmer;;Fenumus' Weave
 Arcanist Gloves-->>Grip of the Council
-Titan Greaves-->>Kaom's Roots;;The Red Trail
+Titan Greaves-->>Kaom's Roots;;The Red Trail;;Doryani's Delusion
 Iron Gauntlets-->>Lochtonial Caress
 Opal Sceptre-->>Balefire
 Zealot Helmet-->>Kitava's Thirst
 Platinum Sceptre-->>Singularity
-Chain Belt-->>Maligaro's Restraint;;Bated Breath;;Ascent From Flesh;;Auxium
-Great Mallet-->>Chober Chaber;;Trypanon
+Chain Belt-->>Maligaro's Restraint;;Bated Breath;;Ascent From Flesh;;Auxium;;Coward's Legacy;;Coward's Chains
+Great Mallet-->>Chober Chaber;;Trypanon;;Chaber Cairn
 Death Bow-->>Death's Harp;;Iron Commander;;Death's Opus
 Diamond Flask-->>Coralito's Signature
 Buckskin Tunic-->>Ashrend
@@ -265,7 +265,7 @@ Diamond Ring-->>Romira's Banquet;;Gifts from Above
 Ironscale Boots-->>Dusktoe;;Duskblight
 Charan's Sword-->>Oni-Goroshi
 Lathi-->>The Searing Touch
-Iron Staff-->>Dying Breath;;Realmshaper;;Realm Ender
+Iron Staff-->>Dying Breath;;Realmshaper;;Realm Ender;;Pillar of the Caged God
 Vile Staff-->>The Whispering Ice
 Reinforced Greaves-->>Windscream;;Windshriek
 Bismuth Flask-->>The Wise Oak
@@ -286,7 +286,7 @@ Infernal Axe-->>Dyadus
 Necropolis Map-->>Death and Taxes
 Zealot Gloves-->>Volkuur's Guidance
 Festival Mask-->>Leer Cast
-Vaal Mask-->>The Vertex
+Vaal Mask-->>The Vertex;;Fractal Thoughts
 Sacrificial Garb-->>Atziri's Splendour
 Crusader Gloves-->>Shaper's Touch;;Repentance
 Vaal Sceptre-->>Doryani's Catalyst;;Doon Cuebiyari
@@ -297,7 +297,7 @@ Murder Mitts-->>Thunderfist;;Malachai's Mark
 Murder Boots-->>Voidwalker;;Bubonic Trail
 Necromancer Silks-->>Vis Mortis
 Wool Shoes-->>Wanderlust
-Titanium Spirit Shield-->>Rathpith Globe
+Titanium Spirit Shield-->>Rathpith Globe;;Bitterbind Point
 Assassin Bow-->>Chin Sol;;Darkscorn;;Arborix
 Overgrown Shrine Map-->>Acton's Nightmare
 Triumphant Lamellar-->>Cherrubim's Maleficence;;Farrul's Fur
@@ -313,7 +313,7 @@ Rusted Sword-->>Redbeak;;Dreadbeak
 Karui Maul-->>Marohi Erqi
 Jagged Foil-->>Fidelitas' Spike
 Thresher Claw-->>Cybil's Paw
-Legion Boots-->>Gang's Momentum
+Legion Boots-->>Gang's Momentum;;March of the Legion
 Sledgehammer-->>Hrimnor's Hymn;;Hrimnor's Dirge
 Torture Chamber Map-->>Oba's Cursed Trove
 Soldier Boots-->>Alberon's Warpath
@@ -340,12 +340,12 @@ Poleaxe-->>Wideswing
 Sapphire Flask-->>Taste of Hate
 Raven Mask-->>The Gull
 Golden Plate-->>Greed's Embrace;;Craiceann's Carapace
-Sorcerer Boots-->>Steppan Eard;;Skyforth
+Sorcerer Boots-->>Steppan Eard;;Skyforth;;Doryani's Delusion
 Nightmare Mace-->>Nebuloch
 Elegant Ringmail-->>Geofri's Sanctuary;;Loreweave
 Rock Breaker-->>Clayshaper
 Saintly Chainmail-->>Incandescent Heart;;Chains of Command
-Silver Flask-->>Kiara's Determination
+Silver Flask-->>Kiara's Determination;;Cinderswallow Urn
 Exquisite Leather-->>Kintsugi;;Yriel's Fostering
 Golden Mask-->>The Three Dragons
 Labrys-->>Uul-Netol's Kiss
@@ -410,12 +410,12 @@ Royal Axe-->>Rigwald's Savagery
 Arcanist Slippers-->>Inya's Epiphany
 Harbinger Map-->>The Beachhead
 Siege Helmet-->>The Formless Flame
-Maze Map-->>Olmec's Sanctum
+Maze Map-->>Olmec's Sanctum;;Doryani's Machinarium
 Coronal Leather-->>The Snowblind Grace
 Rawhide Boots-->>Seven-League Step
 Coiled Staff-->>Xirgil's Crank;;Dying Breath
 Prophecy Wand-->>Void Battery
-Clasped Mitts-->>Shadows and Dust
+Clasped Mitts-->>Shadows and Dust;;Aukuna's Will
 Sanctified Life Flask-->>Blood of the Karui
 Jingling Spirit Shield-->>Light of Lunaris
 Lion Pelt-->>Obscurantis
@@ -424,7 +424,7 @@ Graveyard Map-->>Hallowed Ground
 Ritual Sceptre-->>Brutus' Lead Sprinkler
 Museum Map-->>The Putrid Cloister
 Cedar Tower Shield-->>Trolltimber Spire
-Savant's Robe-->>Cloak of Tawm'r Isley
+Savant's Robe-->>Cloak of Tawm'r Isley;;Garb of the Ephemeral
 Steelhead-->>Jorrhast's Blacksteel
 Sanctified Mana Flask-->>Lavianga's Spirit
 Eye Gouger-->>Essentia Sanguis
@@ -451,7 +451,32 @@ Opal Ring-->>Stormfire;;Mark of the Shaper
 Tribal Circlet-->>Mark of the Red Covenant
 Hydrascale Boots-->>Saqawal's Talons
 Assassin's Boots-->>Fenumus' Spinnerets
-Blood Raiment-->>Saqawal's Nest
-Magistrate Crown-->>Craiceann's Chitin
+Blood Raiment-->>Saqawal's Nest;;The Eternity Shroud
+Magistrate Crown-->>Craiceann's Chitin;;Mask of the Stitched Demon;;Crown of the Tyrant;;Mask of the Tribunal
 Hydrascale Gauntlets-->>Farrul's Pounce
 Steel Ring-->>Mark of the Elder
+Primordial Blocks Map-->>Oba's Cursed Trove
+Timeless Jewel-->>Militant Faith;;Glorious Vanity;;Elegant Hubris;;Brutal Restraint;;Lethal Pride
+Steelwood Bow-->>The Crimson Storm
+Satin Gloves-->>Demon Stitcher
+Embroidered Gloves-->>Vixen's Entrapment
+Variscite Blade-->>Story of the Vaal
+Ornate Quiver-->>Maloney's Mechanism
+Polished Spiked Shield-->>Zeel's Amplifier
+Chiming Spirit Shield-->>The Eternal Apple
+Grinning Fetish-->>Earendel's Embrace
+Blood Sceptre-->>Cerberus Limb
+Steel Circlet-->>Maw of Conquest
+Plague Mask-->>Curtain Call
+Riveted Gloves-->>Command of the Pit
+Vaal Rapier-->>Paradoxica
+Ancient Spirit Shield-->>Apep's Slumber
+Underground Sea Map-->>Oba's Cursed Trove
+Ambush Mitts-->>Slavedriver's Hand
+Ezomyte Axe-->>Sinvicta's Mettle
+Solaris Circlet-->>Flamesight;;Thundersight;;Galesight
+Tyrant's Sekhem-->>Sign of the Sin Eater
+Shackled Boots-->>Dance of the Offered
+Synthesised Ruby Ring-->>Circle of Anguish
+Carnal Boots-->>Omeyocan
+Golden Visage-->>Demigod's Immortality 

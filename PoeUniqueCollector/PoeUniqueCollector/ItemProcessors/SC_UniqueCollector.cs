@@ -118,7 +118,7 @@ namespace PoeUniqueCollector.ItemProcessors
                 return false;
             }
 
-            if (item.Name == "" || !item.Name.Contains("<<set:MS>><<set:M>><<set:S>>"))
+            if (item.Name == "")
             {
                 throw new Exception("unexpected unique");
             }
