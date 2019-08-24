@@ -17,6 +17,7 @@ namespace PoeUniqueCollector
             {
                 Console.WriteLine("USER INPUT: " + input);
                 if (input == "compare") Helper.CompareDataLists();
+                if (input == "sync") Helper.CompareDataLists(true);
             }
         }
     }

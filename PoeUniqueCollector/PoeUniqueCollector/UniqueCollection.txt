@@ -1,4 +1,4 @@
-Cobalt Jewel-->>Hazardous Research;;Eldritch Knowledge;;Frozen Trail;;Rolling Flames;;Malicious Intent;;The Long Winter;;Conqueror's Potency;;Violent Dead;;Healthy Mind;;From Dust;;Grand Spectrum;;Spreading Rot;;Brittle Barrier;;Winter's Bounty;;Brute Force Solution;;Fortified Legion;;First Snow;;Spirited Response;;Primordial Harmony;;Fertile Mind;;Unending Hunger;;Survival Secrets;;Fevered Mind;;Clear Mind;;Dead Reckoning;;Assassin's Haste;;Inevitability;;The Blue Dream;;Soul's Wick;;Energy From Within;;Anatomical Knowledge;;Powerlessness;;To Dust;;Unstable Payload;;Reckless Defence;;Vaal Sentencing;;Mutated Growth;;Corrupted Energy;;The Blue Nightmare;;Emperor's Wit;;Tempered Mind;;Combat Focus
+Cobalt Jewel-->>Hazardous Research;;Eldritch Knowledge;;Frozen Trail;;Rolling Flames;;Malicious Intent;;The Long Winter;;Conqueror's Potency;;Violent Dead;;Healthy Mind;;From Dust;;Grand Spectrum;;Spreading Rot;;Brittle Barrier;;Winter's Bounty;;Brute Force Solution;;Fortified Legion;;First Snow;;Spirited Response;;Primordial Harmony;;Fertile Mind;;Unending Hunger;;Survival Secrets;;Fevered Mind;;Clear Mind;;Dead Reckoning;;Assassin's Haste;;Inevitability;;The Blue Dream;;Soul's Wick;;Energy From Within;;Anatomical Knowledge;;Powerlessness;;To Dust;;Unstable Payload;;Reckless Defence;;Vaal Sentencing;;Mutated Growth;;Corrupted Energy;;The Blue Nightmare;;Emperor's Wit;;Tempered Mind;;Combat Focus;;Transcendent Mind
 Jade Amulet-->>Karui Ward;;The Pandemonius;;The Halcyon;;Rashkaldor's Patience;;Karui Charge;;Hyrri's Truth
 Rustic Sash-->>Prismweave;;Feastbind;;Faminebind;;The Retch
 Dunes Map-->>Pillars of Arun
@@ -37,7 +37,7 @@ Gilded Sallet-->>Deidbellow;;Deidbell
 Nightmare Bascinet-->>Devoto's Devotion;;The Bringer of Rain
 Sinner Tricorne-->>Alpha's Howl
 Judgement Staff-->>Hegemony's Era;;Pledge of Hands;;The Grey Spire
-Great Crown-->>Geofri's Crest;;Lightpoacher
+Great Crown-->>Geofri's Crest;;Lightpoacher;;Geofri's Legacy
 Viridian Jewel-->>Lioneye's Fall;;Volley Fire;;Spirit Guards;;Hair Trigger;;Fight for Survival;;Apparitions;;Steel Spirit;;Growing Agony;;Primordial Eminence;;Might and Influence;;Omen on the Winds;;Collateral Damage;;Weight of Sin;;Pacifism;;Cheap Construction;;Grand Spectrum;;Intuitive Leap;;Pugilist;;Ring of Blades;;Static Electricity;;Sacrificial Harvest;;The Golden Rule;;Sudden Ignition;;Hotfooted;;Fluid Motion;;Careful Planning;;Conqueror's Longevity;;Poacher's Aim;;Self-Flagellation;;Hidden Potential;;Survival Instincts;;Cold Steel;;Chill of Corruption;;Pitch Darkness;;Pure Talent;;Hungry Abyss;;The Green Dream;;Emperor's Cunning;;The Green Nightmare;;Divide and Conquer;;Tempered Spirit;;Unnatural Instinct;;Combat Focus;;Transcendent Spirit
 Leather Belt-->>Cyclopean Coil;;Wurm's Molt;;Immortal Flesh;;Headhunter;;Umbilicus Immortalis;;Gluttony;;Hyperboreus
 Stygian Vise-->>Darkness Enthroned
@@ -68,8 +68,8 @@ Vanguard Belt-->>Perseverance
 Full Wyrmscale-->>Belly of the Beast
 Nubuck Boots-->>Goldwyrm
 Carved Wand-->>The Poet's Pen;;Storm Prison
-Slink Boots-->>Atziri's Step;;Farrul's Chase
-Archon Kite Shield-->>Invictus Solaris;;Prism Guardian;;The Unshattered Will;;Broken Faith
+Slink Boots-->>Atziri's Step;;Farrul's Chase;;Doryani's Delusion
+Archon Kite Shield-->>Invictus Solaris;;Prism Guardian;;The Unshattered Will;;Broken Faith;;Unyielding Flame
 Gold Amulet-->>Bisco's Collar;;The Ignomon;;The Ascetic;;Winterheart;;Demigod's Presence;;The Effigon;;Perquil's Toe
 Sadist Garb-->>Inpulsa's Broken Heart;;Tinkerskin
 Ornate Mace-->>Frostbreath
@@ -131,7 +131,7 @@ Silk Slippers-->>Bones of Ullr
 Mesh Boots-->>Wake of Destruction
 Dream Mace-->>Flesh-Eater
 Gavel-->>Cameria's Maul;;Mjölner;;Cameria's Avarice
-Topaz Ring-->>Kikazaru;;Valako's Sign;;Putembo's Valley;;Putembo's Meadow;;Precursor's Emblem
+Topaz Ring-->>Kikazaru;;Valako's Sign;;Putembo's Valley;;Putembo's Meadow;;Precursor's Emblem;;Putembo's Mountain
 Short Bow-->>Quill Rain
 Military Staff-->>Tremor Rod
 Visored Sallet-->>The Peregrine
@@ -287,7 +287,7 @@ Necropolis Map-->>Death and Taxes
 Zealot Gloves-->>Volkuur's Guidance
 Festival Mask-->>Leer Cast
 Vaal Mask-->>The Vertex;;Fractal Thoughts
-Sacrificial Garb-->>Atziri's Splendour
+Sacrificial Garb-->>Atziri's Splendour;;Shadowstitch
 Crusader Gloves-->>Shaper's Touch;;Repentance
 Vaal Sceptre-->>Doryani's Catalyst;;Doon Cuebiyari
 Blunt Arrow Quiver-->>Maloney's Nightfall;;The Fracturing Spinner
@@ -480,3 +480,9 @@ Shackled Boots-->>Dance of the Offered
 Synthesised Ruby Ring-->>Circle of Anguish
 Carnal Boots-->>Omeyocan
 Golden Visage-->>Demigod's Immortality 
+Crusader Helmet-->>Mask of the Spirit Drinker
+Synthesised Sapphire Ring-->>Circle of Fear
+Gemstone Sword-->>Fate of the Vaal
+Ezomyte Spiked Shield-->>Perepiteia
+Synthesised Magistrate Crown-->>Mask of the Tribunal
+Synthesised Amethyst Ring-->>Circle of Nostalgia

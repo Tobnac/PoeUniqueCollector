@@ -9,7 +9,7 @@ namespace PoeUniqueCollector
 {
     public static class Helper
     {
-        public static void CompareDataLists()
+        public static void CompareDataLists(bool isSyncingToFb = false)
         {
             //var fbFilePath = "..\\..\\BasetypeStorage.csv";
             var fbLocalPath = "C:\\Users\\Tobnac\\WebstormProjects\\fb\\datafiles\\other\\BasetypeStorage.csv";
@@ -63,6 +63,22 @@ namespace PoeUniqueCollector
             var myProph = System.IO.File.ReadLines("..\\..\\ProphecyList.txt").ToList();
             myProph.Where(x => !fbProph.Contains(x)).ToList().ForEach(x => Console.WriteLine("missing proph in fb list: " + x));
             fbProph.Where(x => !myProph.Contains(x)).ToList().ForEach(x => Console.WriteLine("missing proph in my list: " + x));
+
+            if (isSyncingToFb)
+            {
+                var allLines = System.IO.File.ReadAllLines(fbLocalPath).ToList();
+                var index = allLines.IndexOf(allLines.Last(x => x.Contains(",proph,")));
+                var originalLine = allLines[index];
+                var replacementBase = originalLine.Split(',')[1];
+                
+                foreach (var proph in myProph.Where(x => !fbProph.Contains(x)))
+                {
+                    if (proph.Contains(',') || proph == "Rebirth" || proph == "The Twins") continue;
+                    allLines.Insert(index, originalLine.Replace(replacementBase, proph));
+                }
+                
+                System.IO.File.WriteAllLines(fbLocalPath, allLines);
+            }
             
             Console.Read();
         }
